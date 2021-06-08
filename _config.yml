@@ -17,8 +17,8 @@ title: Data 6
 description: Introduction to Computational Thinking with Data
 author: Isaac Merritt and Ian Castro
 email: castro.ian@berkeley.edu
-baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'http://data6.org/su21' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/su21' # the subpath of your site, e.g. /blog
+url: 'http://data6.org' # the base hostname & protocol for your site, e.g. http://example.com
 
 # Theme settings
 remote_theme: pmarsceill/just-the-docs@v0.2.5-release
