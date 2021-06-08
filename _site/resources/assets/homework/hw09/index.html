@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+  
+    <title>Homework 9 - Data 6</title>
+
+    
+    <meta name="Description" content="Creating your own website.">
+    
+  
+
+  <link rel="shortcut icon" href="http://localhost:4000/favicon.ico" type="image/x-icon">
+
+  <link rel="stylesheet" href="http://localhost:4000/assets/css/just-the-docs.css">
+
+  
+
+  
+    <script type="text/javascript" src="http://localhost:4000/assets/js/vendor/lunr.min.js"></script>
+  
+  <script type="text/javascript" src="http://localhost:4000/assets/js/just-the-docs.js"></script>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Homework 9 | Data 6</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="Homework 9" />
+<meta name="author" content="Isaac Merritt and Ian Castro" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Creating your own website." />
+<meta property="og:description" content="Creating your own website." />
+<link rel="canonical" href="http://localhost:4000/resources/assets/homework/hw09/" />
+<meta property="og:url" content="http://localhost:4000/resources/assets/homework/hw09/" />
+<meta property="og:site_name" content="Data 6" />
+<script type="application/ld+json">
+{"url":"http://localhost:4000/resources/assets/homework/hw09/","headline":"Homework 9","author":{"@type":"Person","name":"Isaac Merritt and Ian Castro"},"description":"Creating your own website.","@type":"WebPage","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+</head>
+
+<body>
+
+<!-- START -->
+<div class="page-wrap">
+    <div class="side-bar">
+      <h1 class="site-title">Data 6<br></h1>
+      <button class="js-main-nav-trigger navigation-list-toggle btn btn-outline" type="button" data-text-toggle="Hide">Menu</button>
+      <div class="navigation main-nav js-main-nav">
+        <nav role="navigation" aria-label="Main navigation">
+  <ul class="navigation-list">
+    
+    
+      
+    
+      
+    
+      
+    
+      
+        
+          <li class="navigation-list-item">
+            
+            <a href="http://localhost:4000/" class="navigation-list-link">Home</a>
+            
+          </li>
+        
+      
+    
+      
+        
+          <li class="navigation-list-item">
+            
+            <a href="http://localhost:4000/syllabus/" class="navigation-list-link">Syllabus</a>
+            
+          </li>
+        
+      
+    
+      
+        
+          <li class="navigation-list-item">
+            
+            <a href="http://localhost:4000/resources/" class="navigation-list-link">Resources</a>
+            
+          </li>
+        
+      
+    
+      
+        
+          <li class="navigation-list-item">
+            
+            <a href="http://localhost:4000/staff/" class="navigation-list-link">Staff</a>
+            
+          </li>
+        
+      
+    
+  </ul>
+</nav>
+
+        
+        <nav role="navigation" aria-label="Secondary navigation">
+          
+          <h2 class="navigation-header">Links</h2>
+          <ul class="navigation-list">
+            
+            <li class="navigation-list-item">
+              <a href="https://edstem.org/us/courses/3251/discussion/" class="navigation-list-link" target="_blank">Ed</a>
+            </li>
+            
+            <li class="navigation-list-item">
+              <a href="https://datahub.berkeley.edu" class="navigation-list-link" target="_blank">DataHub</a>
+            </li>
+            
+            <li class="navigation-list-item">
+              <a href="https://www.gradescope.com/courses/219748" class="navigation-list-link" target="_blank">Gradescope</a>
+            </li>
+            
+          </ul>
+          
+        </nav>
+        
+      </div>
+      
+      <footer role="contentinfo" class="site-footer">
+          Powered by <a href="https://github.com/kevinlin1/just-the-class">Just the Class</a>
+      </footer>
+      
+    </div>
+
+<!-- FINISH -->
+
+    <div class="main-content-wrap js-main-content" tabindex="0">
+    <!-- the below is all for the search and auxillary links, which we won't use -->
+<!--       <header class="page-header">
+        <div class="main-content">
+          
+          <div class="search js-search">
+            <div class="search-input-wrap">
+              <input type="text" class="js-search-input search-input" tabindex="0" placeholder="Search Data 6" aria-label="Search Data 6" autocomplete="off">
+              <svg width="14" height="14" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg" class="search-icon"><title>Search</title><g fill-rule="nonzero"><path d="M17.332 20.735c-5.537 0-10-4.6-10-10.247 0-5.646 4.463-10.247 10-10.247 5.536 0 10 4.601 10 10.247s-4.464 10.247-10 10.247zm0-4c3.3 0 6-2.783 6-6.247 0-3.463-2.7-6.247-6-6.247s-6 2.784-6 6.247c0 3.464 2.7 6.247 6 6.247z"/><path d="M11.672 13.791L.192 25.271 3.02 28.1 14.5 16.62z"/></g></svg>
+            </div>
+            <div class="js-search-results search-results-wrap"></div>
+          </div>
+          
+          
+        </div>
+      </header> -->
+      <main class="main-content">
+        
+          
+        
+        <div id="main-content" class="page-content" role="main">
+          <h1 id="homework-9--create-a-website">Homework 9 – Create a Website</h1>
+
+<h3 id="data-94-spring-2021">Data 94, Spring 2021</h3>
+
+<p>This homework is due on <strong>Thursday, April 29th, 2021.</strong> Submission instructions for this assignment are a little different (nothing is uploaded to Gradescope); read the instructions carefully.</p>
+
+<h2 id="overview">Overview</h2>
+
+<p>In this final homework of the semester, you will create a public-facing website with text and visualizations that you will create on your own, using a dataset that you will choose on your own. You’ll be able to share this website link with anyone you want, and you will submit the assignment by posting your website link on Ed (<a href="https://edstem.org/us/courses/3251/discussion/391281">in this thread</a>) for the rest of the class to see.</p>
+
+<p>As you can see, we aren’t distributing this assignment to you in the form of a Jupyter notebook. Instead, we’re providing you with all of the instructions here. <strong>Don’t worry – even though this assignment looks quite different than those prior, we’ve designed it to be relatively straightforward and not that time-consuming.</strong> We promise you’ll enjoy it! 🎉</p>
+
+<p>Here’s a brief summary of each part of the assignment, along with a time estimate.</p>
+
+<ol>
+  <li><a href="#part1">Finding a dataset and creating a visualization (1-2 hours)</a>.</li>
+  <li><a href="#part2">Creating a GitHub account and publishing a blank website (~15 minutes)</a>.</li>
+  <li><a href="#part3">Copying your content to your website (~30 minutes)</a>.</li>
+  <li><a href="#part4">Submitting your work (~10 minutes)</a>.</li>
+  <li><a href="#part5">(Optional) Adding more content</a>.</li>
+  <li><a href="#grading">Grading</a></li>
+</ol>
+
+<p>Throughout this tutorial, we will show you screenshots from an example website that we built. The links to this website and the corresponding repo (the term “repo” will be explained later on) are below. <strong>You cannot use this dataset.</strong></p>
+<ul>
+  <li>Website link: <a href="https://bigbilly23.github.io/2024-polls/">https://bigbilly23.github.io/2024-polls/</a></li>
+  <li>GitHub repo: <a href="https://github.com/bigbilly23/2024-polls">https://github.com/bigbilly23/2024-polls</a></li>
+</ul>
+
+<p>Here are links to the website and GitHub repo created in Lecture 34. <strong>You cannot use this dataset either.</strong></p>
+<ul>
+  <li>Website link: <a href="https://bigbilly23.github.io/weather-chicago-sd/">https://bigbilly23.github.io/weather-chicago-sd/</a></li>
+  <li>GitHub repo: <a href="https://github.com/bigbilly23/weather-chicago-sd">https://github.com/bigbilly23/weather-chicago-sd</a></li>
+</ul>
+
+<p><br /></p>
+
+<p><a name="part1"></a></p>
+<h2 id="part-1--finding-a-dataset-and-creating-a-visualization-">Part 1 – Finding a Dataset and Creating a Visualization 🎨</h2>
+
+<p>Note: We estimated that this part may take slightly longer than the others because it may take a while to find a dataset that you’re interested in and can make interesting visualizations with. You should not spend 1-2 hours writing code in this part.</p>
+
+<ol>
+  <li>Find a dataset you want to work with in the CSV format and download it to your computer. Slides 13 and 14 of <a href="https://docs.google.com/presentation/d/1wA1taEpdonSa-WTuDriNwK6vWOMHewj14nejHZBlFHc/edit#slide=id.gd34f647e78_0_0">Lecture 33</a> list several potential sources.
+    <ul>
+      <li>Try your best not to overlap datasets with others in the class, though if this happens by coincidence that’s fine. Don’t use a dataset we’ve already used this semester in this class and don’t use the dataset in the example we linked above (2024 elections polls).</li>
+      <li>You may want to find more than one dataset in the event you aren’t able to make any interesting visualizations using your first choice.</li>
+      <li>Don’t seek datasets with latitudes and longitudes, since unfortunately the instructions we’ll provide today will only work “regular” visualizations, <strong>not maps</strong>.</li>
+    </ul>
+  </li>
+  <li>Follow the steps in Slides 16-18 of <a href="https://docs.google.com/presentation/d/1wA1taEpdonSa-WTuDriNwK6vWOMHewj14nejHZBlFHc/edit#slide=id.gd34f64800a_2_13">Lecture 33</a> to create a new notebook with the necessary import statements and upload your dataset to your DataHub.
+    <ul>
+      <li>Using <code class="highlighter-rouge">Table.read_table</code>, load in your dataset and save it to a variable. You should now be good to go to perform any analysis you want.</li>
+    </ul>
+  </li>
+  <li>Get familiarized with the data.
+    <ul>
+      <li>There are no concrete steps here; the work you do here will depend on your data. For example, you may want to <code class="highlighter-rouge">group</code> to see the distribution of a particular column, or draw a <code class="highlighter-rouge">scatter</code> plot to understand the relationship between two numerical columns. <strong>We’re not grading you on this step, it’s more just for you to understand the data you’ve chosen.</strong></li>
+    </ul>
+  </li>
+  <li>Create at least one of the following types of visualizations using your data. Feel free to create more than one (perhaps once you’ve finished the whole assignment), but only one is needed for full credit on the assignment. Don’t forget to give your visualizations appropriate axes labels and titles (you may lose points if you don’t). This is especially important here since your visualization will be standing alone on a website without code surrounding it.
+    <ul>
+      <li>Grouped bar chart.</li>
+      <li>Overlaid histogram.</li>
+      <li>Scatter plot with labels or sizes or colors for each point.</li>
+      <li>Line plot with multiple lines.</li>
+      <li><strong>No maps</strong>.</li>
+    </ul>
+  </li>
+  <li>In a Markdown cell in your notebook, write a sentence or two describing your dataset and where you found it (include a link to the website where you downloaded the CSV from). Write another short paragraph about the parts of the data you chose to visualize and any observations you made from the visualization(s) you created. We’re not looking for essays; don’t write more than ~120 words total across the two paragraphs.
+    <ul>
+      <li>To include links in Markdown, use this syntax: <code class="highlighter-rouge">[text to display](URL)</code>. So for example, <code class="highlighter-rouge">[this goes to Google](http://google.com)</code> becomes <a href="http://google.com">this goes to Google</a>.</li>
+    </ul>
+  </li>
+</ol>
+
+<p><a href="../other/part-1-ex.html">At this point, your notebook may look something like this example here</a>. Scroll to the very bottom to see some example paragraphs.</p>
+
+<p>Great! Now you have the information you need for your website. The hard part is done.</p>
+
+<p><br /></p>
+
+<p><a name="part2"></a></p>
+<h2 id="part-2--creating-a-github-account-and-a-blank-website-">Part 2 – Creating a GitHub Account and a Blank Website 💻</h2>
+
+<ol>
+  <li>Create a <a href="http://github.com">GitHub</a> account (go to the site and click “Sign Up” in the top right).
+    <ul>
+      <li>Your username is up to you, but it may be a good idea to choose something professional since you might use this account in the future for something else. Your website URL will contain your username.</li>
+      <li>After entering your credentials, it may ask you questions like “What kind of work do you do, mainly?”. You can skip these; scroll all the way to the bottom and continue.</li>
+      <li>You’ll then need to verify your email address.</li>
+    </ul>
+  </li>
+  <li>Create a new <strong>repository</strong>. It may prompt you to do this after verifying your email; if it doesn’t, you can click the circular cat logo in the top left of your screen and then click the green button in the left pane.
+    <ul>
+      <li>A repository, or repo for short, is like a folder for a project.</li>
+      <li>You will need to select a name for the repository. Name it something related to the dataset that you visualized in the previous part, since your repo name will end up in the URL of your website. <strong>Don’t</strong> name it “94-homework” or something like that.</li>
+      <li>Make sure to select <strong>Public</strong> and <strong>Add a README file.</strong> Overall, your settings should look like this (but with a different username and repo name):</li>
+    </ul>
+    <div align="center">
+ <img src="../images/repo.png" width="500" />
+ </div>
+  </li>
+  <li>Enable <strong>GitHub Pages</strong> for your repo. GitHub Pages is the feature we will use to create our website. Follow these steps:
+    <ol>
+      <li>From this page (the main page of your repo), click “Settings”.
+        <div align="center">
+ <img src="../images/mainpage.png" width="500" />
+ </div>
+      </li>
+      <li>Click “Pages” in the menu on the left (it should be towards the bottom).</li>
+      <li>Under “Source”, change “None” to “main”. Click “Save”.</li>
+      <li>Under “Theme Chooser”, click “Choose a theme”. It will allow you to choose one of several themes; pick the one you like the most and click “Select theme”. If you end up not liking your choice, you can always come back to this menu and change the theme, so don’t worry. <strong>Note:</strong> If you are brought to a page that has you try and edit your file (it may say something like “Edit new file”), just click “Cancel”.</li>
+      <li>After you follow these steps, your site will be public. You will be shown its URL; it will be in the form <code class="highlighter-rouge">&lt;your github username&gt;.github.io/&lt;your repo name&gt;</code>. <strong>Keep a tab open with your website while working on the rest of the assignment.</strong>
+        <div align="center">
+ <img src="../images/showurl.png" width="500" />
+ </div>
+      </li>
+    </ol>
+  </li>
+</ol>
+
+<p><br /></p>
+
+<p><a name="part3"></a></p>
+<h2 id="part-3--building-your-website-">Part 3 – Building Your Website 🔨</h2>
+
+<ol>
+  <li>Navigate back to the main page for your repo by clicking its name in the top-left of your screen. It should now look something like this, though the file <code class="highlighter-rouge">README.md</code> might not have very much in it.
+    <div align="center">
+ <img src="../images/afterpages.png" width="500" />
+ </div>
+  </li>
+  <li>The <code class="highlighter-rouge">README.md</code> file is where you’ll put all of the content for your website (<code class="highlighter-rouge">.md</code> denotes Markdown, the format we discussed at the start of the semester). <strong>To edit <code class="highlighter-rouge">README.md</code> (both now and moving forward), you’ll need to click the pencil icon.</strong> (In the screenshot above, it’s right under the “4 minutes ago” text.)
+    <ul>
+      <li><strong>You should be brought to an interface that allows you to edit <code class="highlighter-rouge">README.md</code>.</strong></li>
+      <li>Under the hood, GitHub Pages uses a library called <a href="https://jekyllrb.com">Jekyll</a> to convert your <code class="highlighter-rouge">README.md</code> to the standard HTML file format.</li>
+      <li>There’s another file in your repo, called <code class="highlighter-rouge">_config.yml</code> – it serves to tell GitHub Pages which theme you chose (amongst other information). You will not edit it in this assignment.</li>
+    </ul>
+  </li>
+  <li>Delete everything currently in <code class="highlighter-rouge">README.md</code> and enter the text that you’d like to put on your website. Specifically:
+    <ul>
+      <li>Put a heading at the top of the file (using <code class="highlighter-rouge">#</code>) that relates to your visualization and write your name on the second line.</li>
+      <li>Copy the two paragraphs you wrote in Part 1 to the file.</li>
+      <li>Write <code class="highlighter-rouge">TODO: Put visualization here</code> where you’d like to insert your visualization. There’s a good chance that this goes between the two paragraphs above, but it doesn’t have to.</li>
+      <li>This is the bare minimum required, but you can add other text/placeholders to your site too, if there are other things you want to write about or other visualizations you want to show. (In Part 5, you’ll see how to add other types of content to your site.)</li>
+      <li>Tip: To space things out vertically, put <code class="highlighter-rouge">&lt;br&gt;</code> on a new line on its own. (This is the equivalent of hitting enter several times in a Word doc.)</li>
+      <li>At this point, the text in <code class="highlighter-rouge">README.md</code> might look something like this:</li>
+    </ul>
+    <div align="center">
+ <img src="../images/edit1.png" width="700" />
+ </div>
+  </li>
+  <li>Scroll down to the bottom of the page, and click “Commit changes”.
+    <ul>
+      <li>You can think of committing as saving your changes.</li>
+      <li>You can add a commit message if you’d like, saying something like “added text to website”. (This is generally good practice.)</li>
+    </ul>
+  </li>
+  <li>After committing, open your website once again. The changes may take a few minutes to propagate but they will eventually appear. Here’s what our example site looks like; we chose the Cayman theme so your site may look different (and that’s fine).
+    <div align="center">
+ <img src="../images/part3novis.png" width="400" />
+ </div>
+  </li>
+  <li>Now your website is close, but it’s missing the pizzazz – your visualization! Here’s how you’ll get your visualization from your notebook to your website. Go back to your notebook that you created in Part 1.
+    <ol>
+      <li>Assign your visualization to a variable name and add the argument <code class="highlighter-rouge">show = False</code> (just like in Homework 7 and 8). Remember, no maps allowed.
+        <div align="center">
+ <img src="../images/fig.png" width="500" />
+ </div>
+      </li>
+      <li>In a new cell, run the following two lines. <code class="highlighter-rouge">fig</code> is a placeholder for the variable name of your visualization, so if you used a different variable name, change <code class="highlighter-rouge">fig</code> too.
+        <div class="language-py highlighter-rouge"><div class="highlight"><pre class="highlight"><code> <span class="kn">import</span> <span class="nn">plotly</span>
+ <span class="k">print</span><span class="p">(</span><span class="n">plotly</span><span class="o">.</span><span class="n">offline</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">fig</span><span class="p">,</span> <span class="n">include_plotlyjs</span><span class="o">=</span><span class="bp">False</span><span class="p">,</span> <span class="n">output_type</span><span class="o">=</span><span class="s">'div'</span><span class="p">))</span>
+</code></pre></div>        </div>
+      </li>
+      <li>Copy the output of that code (it should start with <code class="highlighter-rouge">&lt;div&gt;</code> and end with <code class="highlighter-rouge">&lt;/div&gt;</code>, and be pretty long and ugly).</li>
+      <li>Go back to GitHub and edit <code class="highlighter-rouge">README.md</code>. Replace <code class="highlighter-rouge">TODO: Put visualization here</code> with the nasty looking code you just copied. Do this separately for each visualization you want to put on your website.</li>
+      <li><strong>Before</strong> the code for your first visualization, put the following code on its own on a line:
+        <div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code> <span class="nt">&lt;script </span><span class="na">src=</span><span class="s">"https://cdn.plot.ly/plotly-latest.min.js"</span><span class="nt">&gt;&lt;/script&gt;</span>
+</code></pre></div>        </div>
+      </li>
+      <li>Make sure to commit your changes after (a good commit message here would be “added visualization”). At this point, your <code class="highlighter-rouge">README.md</code> might look something like this:
+        <div align="center">
+ <img src="../images/aftervis.png" width="600" />
+ </div>
+      </li>
+    </ol>
+  </li>
+  <li>After committing in the previous stage, refresh your website until it loads. If you’re happy with the result, congrats! All of the ugly code you copied from your notebook has been converted into your original interactive visualization. At this point, feel free to tweak things. One suggestion is to change the <code class="highlighter-rouge">width</code> and <code class="highlighter-rouge">height</code> of your image in your notebook before exporting. (You can repeat the previous step as many times as you want.) As long as you have these essentials, you can add whatever else you want to your website (see the bonus part for fun possibilities).
+    <div align="center">
+ <img src="../images/part3vis.png" width="600" />
+ </div>
+  </li>
+</ol>
+
+<p>Here’s a link to the <a href="https://bigbilly23.github.io/2024-polls/">finalized example website</a>, without any additional pieces from Part 5.</p>
+
+<p><br /></p>
+
+<p><a name="part4"></a></p>
+<h2 id="part-4--submitting-your-work-">Part 4 – Submitting Your Work ✅</h2>
+
+<p>At this point, you’re ready to submit. There is an optional “Part 5” below that shows you how you can add additional components (like videos or Instagram posts) to your site. You’re free to submit first and then work on the optional parts, or vice versa. You also are not obligated to look at the optional part at all (but it’s fun!).</p>
+
+<ol>
+  <li>Instead of submitting anything to Gradescope, you’re going to upload the notebook you created in Part 1 to GitHub too! Here’s how:
+    <ol>
+      <li>Navigate back to your notebook, save, go to “Kernel &gt; Restart &amp; Run All”, and save again.</li>
+      <li>Go to “File &gt; Download as &gt; Notebook (.ipynb)”. This will download your notebook to your computer.</li>
+      <li>Navigate to the main page of your repo, and click “Add file” then “Upload files”. Then click “Choose your files” and select the notebook you just downloaded.</li>
+      <li>After the progress bar completes, commit your changes. After these steps, your repo should look like this; <a href="https://github.com/bigbilly23/2024-polls">here’s a link</a> to the finalized repo for our example.</li>
+    </ol>
+    <div align="center">
+ <img src="../images/finalrepo.png" width="600" />
+ </div>
+  </li>
+  <li>In <a href="https://edstem.org/us/courses/3251/discussion/391281">this post on Ed</a>, post two links: the link to your website, and the link to your repo.
+    <div align="center">
+ <img src="../images/ed.png" width="600" />
+ </div>
+  </li>
+  <li>That’s it – congrats on finishing! Make sure to take a look at others’ websites.</li>
+</ol>
+
+<p><br /></p>
+
+<p><a name="part5"></a></p>
+<h2 id="optional-part-5--adding-more-content-">(Optional) Part 5 – Adding More Content 🧑‍💻</h2>
+
+<p><strong>Note:</strong> Nothing in this part is required or expected of you. It may interest you, however!</p>
+
+<p>Many of your favorite websites make it surprisingly easy to embed their content into your own website. Here, we’ll point you to some examples. Essentially these all work the same – you tell the website you want to embed their content (e.g. a tweet or an Instagram post) into your website, they give you a piece of code that does it for you, and you paste that code into your website where you want it. That’s it!</p>
+
+<ul>
+  <li><strong>Tweets</strong>. On the Twitter website, click the three dots at the top right of any tweet, then click “Embed Tweet”. A new site will appear; click “Copy Code” to copy the necessary code, and paste that code somewhere in your <code class="highlighter-rouge">README.md</code> (but not in the middle of the long visualization code).</li>
+  <li><strong>YouTube Videos</strong>. On the page of a YouTube video, click “Share”, then click “Embed”. Copy the code that appears and paste it somewhere in your <code class="highlighter-rouge">README.md</code>. You’ll notice that the code has numbers for “width” and “height”; feel free to change these.</li>
+  <li><strong>Songs</strong>. Follow <a href="https://developer.spotify.com/documentation/widgets/generate/embed/">these</a> instructions for Spotify and <a href="https://support.apple.com/en-gw/guide/music-web/apdm0783785d/web">these</a> instructions for Apple Music. Other sites will have similar instructions.</li>
+  <li><strong>Instagram Posts</strong>. On the Instagram website, click the three dots at the top right of any post, then click “Embed” and then “Copy Embed Code”. Copy the code that appears and paste it somewhere in your <code class="highlighter-rouge">README.md</code> (beware, the code may be a little long).</li>
+</ul>
+
+<p>Here’s an example of an embedded Instagram post.</p>
+<div align="center">
+<img src="../images/ig.png" width="600" />
+</div>
+
+<p>If there are other sites you want to embed content from, just Google “(name of site) embed” and you’ll likely find a way to copy the necessary code from their website into your website.</p>
+
+<p>See <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">here</a> for how to add other elements to your website, like images.</p>
+
+<p><a name="grading"></a></p>
+<h2 id="grading">Grading</h2>
+
+<p>This assignment is out of 7 points, and we expect that you will earn all 7 points. We will grade most of your work by looking at your website.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Points</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Appropriate visualization that follows specifications</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>Paragraph introducting dataset and source</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Paragraph explaining visualization</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Attached notebook with all work shown</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><strong>Total</strong></td>
+      <td><strong>7</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<p>Have fun with it, and don’t hesitate to post any questions or clarifications on Ed!</p>
+
+
+          
+        </div>
+      </main>
+    </div>
+  </div>
+</body>
+</html>
