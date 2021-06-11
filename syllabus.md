@@ -20,7 +20,7 @@ description: Course structure and policies.
 
 ## Communication 💬
 
-This semester, we'll be using [Ed](https://edstem.org/us/courses/3251/discussion/), a new communication tool. Ed is where you will see all announcements and get help from staff and other students on assignments and concepts. You will be added to Ed automatically; email Suraj if you're not sure how to access it.
+For communication, we'll be using [Ed](https://edstem.org/us/courses/6639/discussion/), a new communication tool. Ed is where you will see all announcements and get help from staff and other students on assignments and concepts. You will be added to Ed automatically; email Ian (castro.ian@berkeley.edu) or Isaac (isaacmerritt@berkeley.edu) if you’re not sure how to access it.
 
 **We will not be using bCourses at all in this class**; this website and Ed serve as replacements.
 
@@ -28,13 +28,15 @@ This semester, we'll be using [Ed](https://edstem.org/us/courses/3251/discussion
 
 ## Logistics 📆
 
-**Lecture:** Mondays, Wednesdays, and Fridays, 11AM-12PM
+**Lecture:** Mondays & Wednesdays, 10-11AM; Tuesdays & Thursdays, 10AM-12PM
 
-**Lab:** Fridays, 12PM-1PM
+**Lab:** Mondays & Wednesdays, 11AM-12PM
 
-**Office Hours:** Throughout the week; see [Ed](https://edstem.org/us/courses/3251/discussion/201908)
+**Discussion:** Fridays, 10AM-12PM
 
-Lectures, labs, and office hours will be hosted on Zoom. See [this post on Ed](https://edstem.org/us/courses/3251/discussion/201908) for the link. (We won't make the Zoom link public, so that we don't get Zoom-bombed 💣.)
+**Office Hours:** TBD
+
+Lectures, labs, and office hours will be hosted on Zoom. See [this post on Ed](https://edstem.org/us/courses/6639/discussion/484638) for the link. (We won't make the Zoom link public, so that we don't get Zoom-bombed 💣.)
 
 ---
 
@@ -42,21 +44,21 @@ Lectures, labs, and office hours will be hosted on Zoom. See [this post on Ed](h
 
 From the course catalog: This course is an introduction to computational thinking and quantitative reasoning, designed to prepare students for further coursework in data science, computer science, and statistics (in particular, Foundations of Data Science, Data C8). This course emphasizes the use of computation to gain insight about quantitative problems with real data from the social sciences.
 
-Data 94 uses the Python language to teach computation. It also uses the Jupyter Notebook environment, which makes it easy to get started with programming without needing to use a text editor and terminal and is very popular in data science applications.
+Data 6 uses the Python language to teach computation. It also uses the Jupyter Notebook environment, which makes it easy to get started with programming without needing to use a text editor and terminal and is very popular in data science applications.
 
-This class serves a different purposes than several other classes that may sound similar. Specifically:
+This class serves a different purpose than several other classes that may sound similar. Specifically:
+
 - **Data 8**: Data 94 does not cover nearly as much statistics and inference as Data 8. Instead, it dives deeper into Python and its applications in data science. After taking this class, you will be well-equipped to take Data 8 and focus on the inference.
 - **CS 10**: While CS 10 is also an introductory computing class, it focuses less on Python and data science, and more on abstract ideas in computing. It is a fantastic alternative to Data 94.
 - **CS 61A and CS 88**: While these courses also teach Python, they serve a slightly different purpose - namely, they are designed to introduce students to computer science, not to computing in data science. They cover the Python language in far greater detail than we will, but they do not cover how to work with real-world data. They are also substantially more fast-paced than this course.
 
-If you have already taken any of these courses, Data 94 is not the right course for you. But if you haven't -- welcome! You're in the right place 😎. What also makes Data 94 different is its small size – Data 94 will have just 30 students in Spring 2021.
-
 The rough topic breakdown is as follows:
 
-- Weeks 1-6: Python basics in the Jupyter notebook environment.
-- Weeks 7-10: Working with real-world tabular data using `datascience` (the library used in Data 8).
-- Weeks 11-13: Data visualization.
-- Weeks 14-15: Probability and simulation. Special topics, as time permits.
+- Weeks 1-3: Python basics in the Jupyter notebook environment.
+- Week 4: Working with real-world tabular data using datascience (the library used in Data 8).
+- Week 5: Data visualization.
+- Week 6: Probability and simulation. Special topics, as time permits.
+
 
 Slides and code will be posted after each lecture, and they will cover everything you are required to know for the course. There is no one textbook that covers the content of this course the way we intend on covering it, though we will link supplementary readings.
 
@@ -76,7 +78,7 @@ You will leave the course being able to independently apply the skills you've le
 
 ### Lecture
 
-There will be three lectures a week. In lecture, we'll introduce you to new ideas and concepts in programming and data science. **Lecture attendance is a part of your grade**; the specifics are explained in the Policies section below. However, lectures will be recorded and posted after class for you to review in the future. All lecture resources (slides, code, supplemental readings) will be linked on the course website. **Note:** Lecture recordings will only be accessible to students in the course; if you click the "Lecture recordings" link on the course homepage you'll be brought to a page on Ed that only enrolled students can view.
+There will be four lectures a week. In lecture, we’ll introduce you to new ideas and concepts in programming and data science. Lectures will be recorded and posted after class for you to review in the future. All lecture resources (slides, code, supplemental readings) will be linked on the course website. We will begin on Berkeley Time, and attendance is mandatory.
 
 During each lecture, there will be a few points at which we stop and ask you to answer a short question. We call these questions Quick Checks. They serve two purposes:
 1. For us to get a gauge of how well the class understands the material we're currently covering
@@ -88,9 +90,14 @@ Additionally, in some lecture notebooks, we will post optional practice problems
 
 ### Lab
 
-There is also one lab section a week, that follows immediately after the Friday lecture. In lab, we'll spend the first ~15 minutes going over some demos that are relevant to that week's material. While there may be a notebook accompanying this demo (that we will post on the course website), **there is no lab assignment**. You'll spend the remaining ~35 minutes working on that week's homework with the help of your peers and course staff. The hope is that by participating in lab, you will be able to finish your homework quicker.
+There are 2 lab sections a week that follow immediately after the Monday and Wednesday lectures. In lab, we’ll spend the first ~15 minutes going over some demos that are relevant to that week’s material. While there may be a notebook accompanying this demo (that we will post on the course website), **there is no lab assignment**. You’ll spend the remaining ~35 minutes working on practice problems pertinent to that week’s homework with the help of your peers and course staff. The hope is that by participating and collaborating, you will be able to better understand the concepts and finish your homework quicker.
 
-**Lab attendance is a part of your grade.**
+### Discussion
+
+Each Friday, there will be a discussion section. In these sections, we will discuss ethical and social issues in computing and data, such as privacy and algorithmic bias. To prepare for these discussions, you will need to complete some short prep work assigned each Monday, which usually consist of a few readings. Other activities may include guest speakers and content review. **Participation is a part of your grade**.
+Following our group discussions, you will be given time to work on homework with your peers and ask questions from staff members.
+Sometimes, these topics may be difficult to discuss. We all come from different backgrounds and experiences, which shape our views. That being said, our classroom is a judgment-free space; we ask that everyone keep an open mind, be aware of the space you take, and make space for your peers.
+
 
 ### Homeworks
 
@@ -100,13 +107,13 @@ Homeworks primarily consist of programming problems. You will apply the skills y
 
 Homeworks, like all course material, can be accessed by clicking the correct link on the course website. Clicking on the "Homework 3" link, for example, will bring you to a copy of the Homework 3 notebook in your own DataHub. This is where you will work on the assignment. Once you're done, you will run the very last cell in the assignment to generate a `.zip` file, which you will then upload to Gradescope so that we can grade it. This process will be walked through in lecture and in the first assignment.
 
-There will be 9 homework assignments, which corresponds to roughly one per week. In general, homework assignments will be released on Thursday evening, and will be due the following Thursday at 11:59PM. See the Policies section for our extensions and late submissions policy, as well as our homework drop policy.
+There will be 5 homework assignments, which corresponds to roughly one per week. In general, homework assignments will be released on Wednesday evening, and will be due the following Monday at 11 PM. See the Policies section for our extensions and late submissions policy, as well as our homework drop policy.
 
-Homework assignments are meant to be completed individually, but we encourage you to discuss approaches with others; see our Academic Honesty policy below. We may have a couple group-based or presentation-based homework assignments; this is TBD.
+Homework assignments are meant to be completed individually, but we encourage you to discuss approaches with others; see our Academic Honesty policy below.
 
 ### Office Hours and Ed
 
-In addition to lecture and lab, we will host three office hours per week. In office hours, you'll get a chance to ask questions about and (hopefully) work with your peers on assignments. You'll also be able to ask conceptual questions about lecture material.
+In addition to lecture and lab, we will host office hours each week. In office hours, you’ll get a chance to ask questions about and (hopefully) work with your peers on assignments. You’ll also be able to ask conceptual questions about lecture material.
 
 While office hours are not mandatory, we highly recommend attending them regularly as they'll very likely cut down on the time you'll need to spend on homeworks.
 
@@ -114,23 +121,13 @@ Furthermore, you're encouraged to ask and answer questions about assignments and
 
 ### Quizzes and Exams
 
-In lieu of a midterm, we will have three small quizzes held during lecture, each worth 5% of your grade (this way, one bad quiz will not significantly impact your grade). Each quiz will focus on the material that was not assessed on the previous quiz. The scheduling for these is on the course homepage; the tentative dates are
-- Quiz 1: Friday, February 12th [UPDATED]
-- Quiz 2: Friday, March 19th [UPDATED]
-- Quiz 3: Friday, April 16th [UPDATED]
+In lieu of a midterm, we will have two small quizzes, each worth 10% of your grade. Each quiz will focus on the material that was not assessed on the previous quiz. The scheduling for these is on the course homepage; the tentative dates are:
+- Quiz 1: Tuesday, July 20
+- Quiz 2: Monday, August 2
 
-We will have a final exam during the campus-assigned slot: **Tuesday May 11th, 7-10PM.** Unlike the quizzes, the final exam will be cumulative.
+We will have a final exam during the campus-assigned slot: **Friday August 12th, 10AM-12PM.** Unlike the quizzes, the final exam will be cumulative.
 
 More relevant logistics for quizzes and exams will be announced on Ed.
-
-### A note on units
-
-The official Berkeley policy is that a 3 unit class should consist of an average of 9 hours of work per week including class time ([source](https://academic-senate.berkeley.edu/coci-handbook/2.3.1)). The breakdown in our class looks like this:
-- 3 hours of lecture
-- 1 hour of lab
-- 5 hours of homework
-
-In some weeks you will have to spend time studying for quizzes; in those weeks we will try to keep homework assignments short. We really want to make sure you don't exceed this 9 hour mark on average; if you are, please let us know.
 
 ---
 
@@ -138,10 +135,10 @@ In some weeks you will have to spend time studying for quizzes; in those weeks w
 
 We will be using several websites this semester. Here's what they're all used for:
 
-- [Course Website](http://data94.org): where all content will be posted.
-- [Ed](https://edstem.org/us/courses/3251/discussion/): discussion forum where all announcements will be sent, and where all student-staff and student-student communication will occur. Also where Quick Checks are hosted and submitted.
+- [Course Website](http://data6.org/su21): where all content will be posted.
+- [Ed](https://edstem.org/us/courses/6639/discussion/): discussion forum where all announcements will be sent, and where all student-staff and student-student communication will occur. Also where Quick Checks are hosted and submitted.
 - [DataHub](http://datahub.berkeley.edu): where all assignments will be hosted. (You will not usually have to navigate here manually; assignment links on the course homepage bring you to the right place automatically.)
-- [Gradescope](https://www.gradescope.com/courses/166696): where all homeworks are submitted and all grades live. (Not bCourses! 🙅)
+- [Gradescope](https://www.gradescope.com/courses/272092): where all homeworks are submitted and all grades live. (Not bCourses! 🙅)
 
 ---
 
@@ -153,23 +150,19 @@ Here's how we will compute your grade.
 
 | Component | Weight | Notes |
 | --- | --- | --- |
-| Attendance | 5% | see below |
+| Participation | 10% | |
 | Quick Checks | 5% | no drops |
 | Weekly Surveys  | 5% | no drops |
-| Homeworks | 50% | 9, with 1 drop (6.25% each) |
-| Quizzes | 15% | 3, 5% each |
+| Homeworks | 40% | 5, with 1 drop (10% each) |
+| Quizzes | 20% | 2, 10% each |
 | Final Exam | 20% | |
 
-**Attendance**
+**Participation**
 
-Starting in the second week of class, attendance will be taken. Each week, there are four class sessions – three lectures and one lab. Each class session you attend earns you 1 point.
+In labs and discussion, you are expected to participate as part of your grade. Participation takes a variety of forms, including asking questions, working with peers on problems, volunteering answers, and completing practice problems.
 
-There are a total of 52 available attendance points (4 points/week x 13 weeks, not including Week 1 or Spring Break). **39 attendance points are required for full credit**, and attaining more than 39 attendance points will give you extra credit. So for instance:
-- A student who earns exactly 39 points will have an attendance score of 5% * (39 / 39) = 5%.
-- A student who earns 20 attendance points will have an attendance score of 5% * (20/39) = 2.56%.
-- A student who earns 52 attendance points will have an attendance score of 5% * (52 / 39) = 6.67%.
+Even though you will not be assessed on the readings for discussion, you are also expected to complete them to be able to participate. Due to the virtual format, we will be relatively lenient for this portion of the grade. However, learning happens best when you actively participate, so please speak up in class!
 
-This means that you can miss one class session per week on average and still receive full credit for attendance. We expect you to attend all class sessions; this policy is meant to provide leniency for the times that you're unable to make it.
 
 **Weekly Surveys**
 
@@ -181,15 +174,18 @@ There are no drops for these (so you need to do them all for full credit), but w
 
 **Homeworks**
 
-There will be 11 homework assignments. We will drop your lowest homework assignment score, meaning your top 10 homework assignments will be graded. This means each homework is worth 5% of your overall grade in this class.
+There will be 5 homework assignments. We will drop your lowest homework assignment score, meaning your top 4 homework assignments will be graded. This means each homework is worth 10% of your overall grade in this class.
+
+There is a bonus point available for students who submit their assignments early. If you submit your homework 24 hours before the posted deadline, usually Sunday 11 PM, you will receive 1 extra credit point on your homework grade.
+
 
 ### Late Policy and Extensions
 
-Homework assignments are due to Gradescope at 11:59PM on the day that they are due, which will typically be Wednesday. We will have a small, undisclosed grace period to account for any technical difficulties; if you face any issues while submitting, please post on Ed ASAP (ideally before the deadline).
+Homework assignments are due to Gradescope at 11PM on the day that they are due, which will typically be Monday. We will have a small, undisclosed grace period to account for any technical difficulties; if you face any issues while submitting, please post on Ed ASAP (ideally before the deadline).
 
-If you submit your homework late, and do not have an extension (see below), we will still accept your submission but you will lose 20% of the credit you earned per day late, at a maximum of two days late. So if you scored a 90% on a homework and submitted it a day late, your score will drop to a 72%, and if you submitted it two days late, your score will drop to a 54%. We will not accept homeworks past two days after the submission deadline.
+If you submit your homework late, and do not have an extension (see below), we will still accept your submission but you will lose 50% of the credit you earned per day late, at a maximum of one day late. So if you scored 90% on a homework and submitted it a day late, your score would drop to a 45%. We will not accept homeworks past one day after the submission deadline.
 
-**Extensions:** We know this is a stressful time, and we don't want to penalize you because of circumstances that are out of your control. To request an extension on a homework, please email **both** Suraj and Isaac with the reason for your request and number of days you're requesting an extension for (1 or 2). As long as your request is within reason, there's a good chance of it being granted. Students with DSP accommodations that allow for late assignment submissions will still need to email Suraj and Isaac for extensions, but not with a reason.
+**Extensions:** We know this is a stressful time, and we don’t want to penalize you because of circumstances that are out of your control. To request an extension on a homework, please email **both** Ian and Isaac with the reason for your request and number of days you’re requesting an extension for (1 or 2). As long as your request is within reason, there’s a good chance of it being granted. Students with DSP accommodations that allow for late assignment submissions will still need to email us for extensions, but not with a reason.
 
 ### Academic Honesty
 
@@ -211,7 +207,7 @@ Try your best not to worry about them, and we'll reciprocate by being fair and l
 
 ## Acknowledgements 🙏
 
-This class is loosely based on Data C6, taught by Ian Castro in Summer 2020 at UC Berkeley. That class was based on Data 8R, taught by Henry Milner in Summer 2017, also at UC Berkeley. Both classes were based on Data 8 at UC Berkeley.
+This class is based on Data 94, taught by Suraj Rampure in Spring 2021 at UC Berkeley. That class was loosely based on Data C6, taught by Ian Castro in Summer 2020 at UC Berkeley, which in turn was based on Data 8R, taught by Henry Milner in Summer 2017, also at UC Berkeley. These classes were based on Data 8 at UC Berkeley.
 
 When creating Data 94, we've referred to the materials of several other courses:
 

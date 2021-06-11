@@ -1,22 +1,50 @@
 ---
-    title: 3. Iteration
+    title: 3. Data and Tables
     weekNumber: 3
     days:
-      - date: 2021-02-01
+      - date: 2021-07-19
         events:
-          "**6**{: .label .label-gray } Control":
-            "**6**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/144aEr4lKPLkx04xs7RdapTTv5msQZEFHEbDj97oZYGQ/edit?usp=sharing) • [code](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lecture/lec06/lec06.ipynb) • [code HTML](resources/assets/lecture/lec06/lec06.html) • [QC](https://edstem.org/us/courses/3251/lessons/9024/slides/45172) • readings: [CIT 9.1](https://www.inferentialthinking.com/chapters/09/1/Conditional_Statements.html); [SPR 12](https://cs.stanford.edu/people/nick/py/python-if.html), [13](https://cs.stanford.edu/people/nick/py/python-boolean.html)"
-      - date: 2021-02-03
+          "**12**{: .label .label-gray } Quiz 1 Review":
+            "**12**{: .label .label-ghost }"
+            #[slides](#TODO) •
+            #[code](#TODO) •
+            #[code HTML](#TODO) •
+            #[QC](#TODO)"
+          "**Lab 3**{: .label .label-lab} For Loops": #TODO
+      - date: 2021-07-20
         events:
-          "**7**{: .label .label-gray } Iteration 1 (While loops)":
-            "**7**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/16ymdTXOWWgCZLOe8VxscClVGfOKXgj34r7IPQQIscn0/edit?usp=sharing) • [code](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lecture/lec07/lec07.ipynb) • [code HTML](resources/assets/lecture/lec07/lec07.html) • [QC](https://edstem.org/us/courses/3251/lessons/9428/slides/47722) • readings: [SPR 11](https://cs.stanford.edu/people/nick/py/python-while.html)"
-      - date: 2021-02-04
+          "**Quiz 1**{: .label .label-exam } Quiz 1 (in lecture)":
+          "**13**{: .label .label-gray } File Formats + Dictionaries":
+            "**13**{: .label .label-ghost }
+            optional readings: [CSV vs. JSON](https://medium.com/@martindrapeau/the-state-of-csv-and-json-d97d1486333), [Imports](https://www.digitalocean.com/community/tutorials/how-to-import-modules-in-python-3), [SPR 21](https://cs.stanford.edu/people/nick/py/python-dict.html), [TCS 12](https://runestone.academy/runestone/books/published/thinkcspy/Dictionaries/toctree.html)"
+            #[slides](#TODO) •
+            #[code](#TODO) •
+            #[code HTML](#TODO) •
+            #[QC](#TODO) •
+            #readings: [CSV vs. JSON](https://medium.com/@martindrapeau/the-state-of-csv-and-json-d97d1486333), [Imports](https://www.digitalocean.com/community/tutorials/how-to-import-modules-in-python-3), [SPR 21](https://cs.stanford.edu/people/nick/py/python-dict.html), [TCS 12](https://runestone.academy/runestone/books/published/thinkcspy/Dictionaries/toctree.html)"
+      - date: 2021-07-21
         events:
-          "**Homework 2**{: .label .label-hw } [Control, Iteration, Lists, and Strings](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=hw/hw02/hw02.ipynb) **(due Feb. 17)**":
-          "**Survey 2**{: .label .label-survey } [Weekly Survey](https://docs.google.com/forms/d/e/1FAIpQLSfdTwoUUxMi5sSsZRvH2AJDOmFu1N7zJZAQ1wMbvwHkTnpoSQ/viewform) **(due Feb. 11)**":
-      - date: 2021-02-05
+          "**14**{: .label .label-gray } Dictionaries and NumPy":
+            "**14**{: .label .label-ghost } optional readings: [SPR 21](https://cs.stanford.edu/people/nick/py/python-dict.html), [TCS 12](https://runestone.academy/runestone/books/published/thinkcspy/Dictionaries/toctree.html), [CIT 5](https://www.inferentialthinking.com/chapters/05/Sequences.html), [Data 8 Python reference](http://data8.org/fa20/python-reference.html)"
+            #[slides](#TODO) •
+            #[code](#TODO) •
+            #[code HTML](#TODO) •
+            #[QC](#TODO) •
+            #readings: [SPR 21](https://cs.stanford.edu/people/nick/py/python-dict.html), [TCS 12](https://runestone.academy/runestone/books/published/thinkcspy/Dictionaries/toctree.html), [CIT 5](https://www.inferentialthinking.com/chapters/05/Sequences.html), [Data 8 Python reference](http://data8.org/fa20/python-reference.html)"
+          "**Lab 4**{: .label .label-lab} Dictionaries and NumPy": #TODO
+          "**Homework 3**{: .label .label-hw } Dictionaries and NumPy **(due July 26th)**": #TODO
+          "**Survey 3**{: .label .label-survey } Weekly Survey **(due July 26th)**": #TODO
+      - date: 2021-07-22
         events:
-          "**8**{: .label .label-gray } Lists and Strings":
-            "**8**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1gIbZd5SYEx7Q_EvhLdTtQ77OGP_v2nEGeFTLyBYvZO8/edit?usp=sharing) • [code](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lecture/lec08/lec08.ipynb) • [code HTML](resources/assets/lecture/lec08/lec08.html) • [QC](https://edstem.org/us/courses/3251/lessons/9515/slides/48100) • readings: [SPR 19](https://cs.stanford.edu/people/nick/py/python-list.html)"
-          "**Lab 2**{: .label .label-lab } [More Python Fundamentals](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lab/lab02/lab02.ipynb)":
+          "**15/16**{: .label .label-gray } Table Fundamentals; Row Manipulation":
+            "**15/16**{: .label .label-ghost } optional readings: [CIT 6.0](https://www.inferentialthinking.com/chapters/06/Tables.html), [CIT 6.1-6.4](https://www.inferentialthinking.com/chapters/06/1/Sorting_Rows.html), [`are.` docs](http://data8.org/datascience/predicates.html?highlight=#datascience.predicates.are)"
+            #[table slides](#TODO) •
+            #[row slides](#TODO) •
+            #[code](#TODO) •
+            #[code HTML](#TODO) •
+            #[QC](#TODO) •
+            #readings: [CIT 6.0](https://www.inferentialthinking.com/chapters/06/Tables.html), [CIT 6.1-6.4](https://www.inferentialthinking.com/chapters/06/1/Sorting_Rows.html), [`are.` docs](http://data8.org/datascience/predicates.html?highlight=#datascience.predicates.are)"
+      - date: 2021-07-23
+        events:
+          "**Discussion 3**{: .label .label-disc } Algorithmic Bias": #TODO
 ---

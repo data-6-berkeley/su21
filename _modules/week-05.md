@@ -1,21 +1,52 @@
 ---
-    title: 5. More Iteration
+    title: 5. Data Visualization
     weekNumber: 5
     days:
-      - date: 2021-02-15
+      - date: 2021-08-02
         events:
-          "N/A (Presidents Day)":
-      - date: 2021-02-17
+          "**Quiz 2**{: .label .label-exam} Quiz 2 (in lecture)":
+          "**22**{: .label .label-gray } Introduction to Visualization":
+            "**22**{: .label .label-ghost }
+            optional readings: [History of Viz](https://www.youtube.com/watch?v=N00g9Q9stBo)"
+            #[slides](#TODO) •
+            #[code](#TODO) •
+            #[code HTML](#TODO) •
+            #[QC](#TODO) •
+            #readings: [History of Viz](https://www.youtube.com/watch?v=N00g9Q9stBo)"
+      - date: 2021-08-03
         events:
-          "**11**{: .label .label-gray } Iteration 2 (For loops)":
-            "**11**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1JDI_3POazkOLhGe8mmWDxixH73So6SzymP7QdNLqeRI/edit#slide=id.p) • [code](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lecture/lec11/lec11.ipynb) • [code HTML](resources/assets/lecture/lec11/lec11.html) • [QC](https://edstem.org/us/courses/3251/lessons/10224/slides/50796) • readings: [SPR 10](https://cs.stanford.edu/people/nick/py/python-for.html), [14](https://cs.stanford.edu/people/nick/py/python-range.html); [TCS 8.2](https://runestone.academy/runestone/books/published/thinkcspy/MoreAboutIteration/Theforlooprevisited.html), [10.18](https://runestone.academy/runestone/books/published/thinkcspy/Lists/TheAccumulatorPatternwithLists.html)"
-      - date: 2021-02-18
+          "**23/24**{: .label .label-gray } Visualizing Categorical & Numerical Variables":
+            "**23/24**{: .label .label-ghost }
+            optional readings: [CIT 7.1](https://inferentialthinking.com/chapters/07/1/Visualizing_Categorical_Distributions.html), [CIT 7.2](https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html)* (see Slide 2)"
+            #[categorical slides](#TODO) •
+            #[numerical slides](#TODO) •
+            #[code](#TODO) •
+            #[code HTML](#TODO) •
+            #[QC](#TODO) •
+            #readings: [CIT 7.1](https://inferentialthinking.com/chapters/07/1/Visualizing_Categorical_Distributions.html), [CIT 7.2](https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html)* (see Slide 2)"
+      - date: 2021-08-04
         events:
-          "**Homework 3**{: .label .label-hw } [Review and For Loops](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=hw/hw03/hw03.ipynb) **(due Feb. 24)**":
-          "**Survey 3**{: .label .label-survey } [Weekly Survey](https://docs.google.com/forms/d/e/1FAIpQLSc-TbZqaeVmoZp9qsWK6Innpf8LtUtm2VopRVYdP9GoOySXpQ/viewform) **(due Feb. 24)**":
-      - date: 2021-02-19
+          "**25**{: .label .label-gray } Visualizing Two Numerical Variables":
+            "**25**{: .label .label-ghost } optional readings: [CIT 7.0](https://inferentialthinking.com/chapters/07/Visualization.html)"
+            #[slides](#TODO) •
+            #[code](#TODO) •
+            #[code HTML](#TODO) •
+            #[QC](#TODO) •
+            #readings: [CIT 7.0](https://inferentialthinking.com/chapters/07/Visualization.html)"
+          "**Lab 7**{: .label .label-lab} Visualization Fundamentals": #TODO
+          "**Homework 5**{: .label .label-hw } Data Visualization **(due August 9th)**": #TODO
+          "**Survey 5**{: .label .label-survey } Weekly Survey **(due August 9th)**": #TODO
+      - date: 2021-08-05
         events:
-          "**12**{: .label .label-gray } More Iteration":
-            "**12**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1xiA6wvgdH-8g5Qfh0-U9yobQcJSHA8n7cgZOWtuCBqo/edit?usp=sharing) • [code](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lecture/lec12/lec12.ipynb) • [code HTML](resources/assets/lecture/lec12/lec12.html) • [QC](https://edstem.org/us/courses/3251/lessons/10508/slides/51515) • readings: [Luhn's](https://gizmodo.com/how-credit-card-numbers-work-1493331190), [TCS 10.24](https://runestone.academy/runestone/books/published/thinkcspy/Lists/NestedLists.html)"
-          "**Lab 3**{: .label .label-lab } [For Loops](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/surajrampure/data-94-sp21&subPath=lab/lab03/lab03.ipynb)":
+          "**26/27**{: .label .label-gray } Maps; Fun with Plotly":
+            "**26/27**{: .label .label-ghost } optional readings: [CIT 8.5](https://inferentialthinking.com/chapters/08/5/Bike_Sharing_in_the_Bay_Area.html)"
+            #[maps slides](#TODO) •
+            #[plotly slides](#TODO) •
+            #[code](#TODO) •
+            #[code HTML](#TODO) •
+            #[QC](#TODO) •
+            #readings: [CIT 8.5](https://inferentialthinking.com/chapters/08/5/Bike_Sharing_in_the_Bay_Area.html)"
+      - date: 2021-08-06
+        events:
+          "**Discussion 5**{: .label .label-disc } Privacy (Carpenter v. US)": #TODO
 ---

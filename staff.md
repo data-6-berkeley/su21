@@ -9,9 +9,9 @@ description: A listing of all the course staff members.
 
 See [this post](https://edstem.org/us/courses/3251/discussion/201908) on Ed for the most up-to-date office hours schedule and Zoom links.
 
-## Instructor
+## Instructors
 
-Email the instructor with any questions about the class.
+Email the instructors with any questions about the class.
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 <div class="role">
@@ -29,7 +29,7 @@ Email the instructor with any questions about the class.
   {% endfor %}
 </div>
 
-## Faculty Advisors
+<!-- ## Faculty Advisors
 
 The faculty advisors are helping design the class behind-the-scenes. (Don't email them about this class, but feel free to email them about anything else!)
 
@@ -38,4 +38,4 @@ The faculty advisors are helping design the class behind-the-scenes. (Don't emai
   {% for staffer in fa %}
   {{ staffer }}
   {% endfor %}
-</div>
+</div> -->
