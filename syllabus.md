@@ -48,8 +48,8 @@ Data 6 uses the Python language to teach computation. It also uses the Jupyter N
 
 This class serves a different purpose than several other classes that may sound similar. Specifically:
 
-- **Data 8**: Data 94 does not cover nearly as much statistics and inference as Data 8. Instead, it dives deeper into Python and its applications in data science. After taking this class, you will be well-equipped to take Data 8 and focus on the inference.
-- **CS 10**: While CS 10 is also an introductory computing class, it focuses less on Python and data science, and more on abstract ideas in computing. It is a fantastic alternative to Data 94.
+- **Data 8**: Data 6 does not cover nearly as much statistics and inference as Data 8. Instead, it dives deeper into Python and its applications in data science. After taking this class, you will be well-equipped to take Data 8 and focus on the inference.
+- **CS 10**: While CS 10 is also an introductory computing class, it focuses less on Python and data science, and more on abstract ideas in computing. It is a fantastic alternative to Data 6.
 - **CS 61A and CS 88**: While these courses also teach Python, they serve a slightly different purpose - namely, they are designed to introduce students to computer science, not to computing in data science. They cover the Python language in far greater detail than we will, but they do not cover how to work with real-world data. They are also substantially more fast-paced than this course.
 
 The rough topic breakdown is as follows:
@@ -209,7 +209,7 @@ Try your best not to worry about them, and we'll reciprocate by being fair and l
 
 This class is based on Data 94, taught by Suraj Rampure in Spring 2021 at UC Berkeley. That class was loosely based on Data C6, taught by Ian Castro in Summer 2020 at UC Berkeley, which in turn was based on Data 8R, taught by Henry Milner in Summer 2017, also at UC Berkeley. These classes were based on Data 8 at UC Berkeley.
 
-When creating Data 94, we've referred to the materials of several other courses:
+When creating Data 6, we've referred to the materials of several other courses:
 
 - [Data 8](http://data8.org), [CS 10](http://cs10.org), and [CS 61A](http://cs61a.org) at UC Berkeley
 - [CS 106A](http://cs106a.stanford.edu) at Stanford
