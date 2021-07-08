@@ -6,28 +6,36 @@
         events:
           "**1**{: .label .label-gray } Introduction + Course Overview; Jupyter and Arithmetic":
             "**1**{: .label .label-ghost }
-            [slides](https://docs.google.com/presentation/d/1DmN6vrvfqbFOHDYsSOO-gITnTUA533zeYKYlbFndSyo) • [code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec01%2Flec01.ipynb&branch=master) •
-            [code HTML](http://data6.org/su21/resources/assets/lecture/lec01/lec01.html) •
+            [slides](https://docs.google.com/presentation/d/1DmN6vrvfqbFOHDYsSOO-gITnTUA533zeYKYlbFndSyo) •
+            [lec1 code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec01%2Flec01.ipynb&branch=master) •
+            [lec1 code HTML](http://data6.org/su21/resources/assets/lecture/lec01/lec01.html) •
+            [lec2 code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec02%2Flec02.ipynb&branch=master) •
+            [lec2 code HTML](http://data6.org/su21/resources/assets/lecture/lec02/lec02.html)
+            **1**{: .label .label-ghost } **1**{: .label .label-ghost } **1**{: .label .label-ghost }
             optional readings: [CIT 3.1](https://www.inferentialthinking.com/chapters/03/1/Expressions.html), [4.1](https://www.inferentialthinking.com/chapters/04/1/Numbers.html); [SPR 8](https://cs.stanford.edu/people/nick/py/python-math.html)"
       - date: 2021-07-07
         events:
           "**2**{: .label .label-gray } Variables and Types":
             "**2**{: .label .label-ghost }
-            [slides](https://docs.google.com/presentation/d/1IZieKTp0TMKHwDEO71bUL6pxcZJ6yhDw8J1viW3eKqQ/edit#slide=id.p) •
+            [slides](https://docs.google.com/presentation/d/1IZieKTp0TMKHwDEO71bUL6pxcZJ6yhDw8J1viW3eKqQ) •
             [QC](https://edstem.org/us/courses/6639/lessons/19233/slides/102891) •
             [code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec03%2Flec03.ipynb&branch=master) •
-            [code HTML](http://data6.org/su21/resources/assets/lecture/lec02/lec03.html)"
+            [code HTML](http://data6.org/su21/resources/assets/lecture/lec03/lec03.html)"
           "**Lab 0**{: .label .label-lab } [Using Jupyter Notebooks](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flab%2Flab00%2Flab00.ipynb&branch=master)":
       - date: 2021-07-08
         events:
           "**3**{: .label .label-gray } Comparison; Functions":
-            "**3**{: .label .label-ghost } optional readings: [CIT 4.3](https://www.inferentialthinking.com/chapters/04/3/Comparison.html), [CIT 8.0](https://www.inferentialthinking.com/chapters/08/Functions_and_Tables.html), [SPR 9](https://cs.stanford.edu/people/nick/py/python-function.html)"
-            #[slides] (#TODO) •
-            #[QC](#TODO) •
-            #[code](#TODO) •
-            #[code HTML](#TODO)"
-          "**Homework 1**{: .label .label-hw } Introduction to Python **(due July 12th)**": #TODO
-          "**Survey 1**{: .label .label-survey } Weekly Survey **(due July 12th)**": #TODO
+            "**3**{: .label .label-ghost }
+            [slides](https://docs.google.com/presentation/d/165q33qoEvGbhanuzCRCfqQ0pAcwKI66OUZGFMD7V1xM) •
+            [QC](https://edstem.org/us/courses/6639/lessons/19234/slides/102894) •
+            [lec1 code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec04%2Flec04.ipynb&branch=master) •
+            lec1 code HTML •
+            [lec2 code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec05%2Flec05.ipynb&branch=master) •
+            lec2 code HTML
+            **3**{: .label .label-ghost } **3**{: .label .label-ghost }
+            optional readings: [CIT 4.3](https://www.inferentialthinking.com/chapters/04/3/Comparison.html), [CIT 8.0](https://www.inferentialthinking.com/chapters/08/Functions_and_Tables.html), [SPR 9](https://cs.stanford.edu/people/nick/py/python-function.html)"
+          "**Homework 1**{: .label .label-hw } [Introduction to Python](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Fhw%2Fhw01%2Fhw01.ipynb&branch=master) **(due July 12th)**":
+          "**Survey 1**{: .label .label-survey } [Weekly Survey](https://docs.google.com/forms/d/e/1FAIpQLSdUmMRn2LdT2NG9PAqi26pEjUXFWCrhzCrIH3tV51og-ocDbg/viewform) **(due July 12th)**":
       - date: 2021-07-09
         events:
           "**Discussion 1**{: .label .label-disc } Data in Education": #TODO
