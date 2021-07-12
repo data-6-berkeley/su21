@@ -6,13 +6,23 @@
         events:
           "**4**{: .label .label-gray } Control (if/else)":
             "**4**{: .label .label-ghost }
+            [slides](https://docs.google.com/presentation/d/1Ejr1BsetBnCQKLfFavQo9l8PS-W6k4jqd5AO27nITLw) •
+            [code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec06%2Flec06.ipynb&branch=master) •
+            [QC](https://edstem.org/us/courses/6639/lessons/19320/edit/slides/103714)
+            **4**{: .label .label-ghost }
+            **4**{: .label .label-ghost }
+            **4**{: .label .label-ghost }
+            **4**{: .label .label-ghost }
+            **4**{: .label .label-ghost }
+            **4**{: .label .label-ghost }
+            **4**{: .label .label-ghost }
+            **4**{: .label .label-ghost }
+            **4**{: .label .label-ghost }
+            **4**{: .label .label-ghost }
+            **4**{: .label .label-ghost }
             optional readings: [CIT 8.0](https://www.inferentialthinking.com/chapters/08/Functions_and_Tables.html), [SPR 9](https://cs.stanford.edu/people/nick/py/python-function.html)"
-            #[slides](#TODO) •
-            #[code](#TODO) •
             #[code HTML](#TODO) •
-            #[QC](#TODO) •
-            #readings: [CIT 8.0](https://www.inferentialthinking.com/chapters/08/Functions_and_Tables.html), [SPR 9](https://cs.stanford.edu/people/nick/py/python-function.html)"
-          "**Lab 1**{: .label .label-lab} Functions": #TODO
+          "**Lab 1**{: .label .label-lab} [Functions](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flab%2Flab01%2Flab01.ipynb&branch=master)":
       - date: 2021-07-13
         events:
           "**5**{: .label .label-gray } Control & Functions Review; Lists and Strings":
