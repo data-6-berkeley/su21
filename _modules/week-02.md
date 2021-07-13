@@ -28,7 +28,7 @@
           "**5**{: .label .label-gray } Control & Functions Review; Lists and Strings":
             "**5**{: .label .label-ghost }
             [slides](https://docs.google.com/presentation/d/1tMtMxNwqkSQ3LoTX0B67dfmQ0ofKS3n52S-Dz-fVOho) •
-            [QC](https://edstem.org/us/courses/6639/lessons/19320/slides/103714) •
+            [QC](https://edstem.org/us/courses/6639/lessons/19324/slides/103725) •
             [lec1 practice problems](https://edstem.org/us/courses/6639/lessons/19577/slides/105598) •
             [lec2 code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec08%2Flec08.ipynb&branch=master)
             **5**{: .label .label-ghost }
