@@ -14,8 +14,6 @@
             **1**{: .label .label-ghost }
             **1**{: .label .label-ghost }
             **1**{: .label .label-ghost }
-            **1**{: .label .label-ghost }
-            **1**{: .label .label-ghost }
             optional readings: [CIT 3.1](https://www.inferentialthinking.com/chapters/03/1/Expressions.html), [4.1](https://www.inferentialthinking.com/chapters/04/1/Numbers.html); [SPR 8](https://cs.stanford.edu/people/nick/py/python-math.html)"
       - date: 2021-07-07
         events:
@@ -36,8 +34,6 @@
             [lec1 code HTML](http://data6.org/su21/resources/assets/lecture/lec04/lec04.html) •
             [lec2 code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec05%2Flec05.ipynb&branch=master) •
             [lec2 code HTML](http://data6.org/su21/resources/assets/lecture/lec05/lec05.html)
-            **3**{: .label .label-ghost }
-            **3**{: .label .label-ghost }
             **3**{: .label .label-ghost }
             **3**{: .label .label-ghost }
             optional readings: [CIT 4.3](https://www.inferentialthinking.com/chapters/04/3/Comparison.html), [CIT 8.0](https://www.inferentialthinking.com/chapters/08/Functions_and_Tables.html), [SPR 9](https://cs.stanford.edu/people/nick/py/python-function.html)"
