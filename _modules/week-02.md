@@ -9,17 +9,8 @@
             [slides](https://docs.google.com/presentation/d/1Ejr1BsetBnCQKLfFavQo9l8PS-W6k4jqd5AO27nITLw) •
             [QC](https://edstem.org/us/courses/6639/lessons/19320/edit/slides/103714) •
             [code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec06%2Flec06.ipynb&branch=master) •
-            [code HTML](http://data6.org/su21/resources/assets/lecture/lec06/lec06.html)
-            **4**{: .label .label-ghost }
-            **4**{: .label .label-ghost }
-            **4**{: .label .label-ghost }
-            **4**{: .label .label-ghost }
-            **4**{: .label .label-ghost }
-            **4**{: .label .label-ghost }
-            **4**{: .label .label-ghost }
-            **4**{: .label .label-ghost }
-            **4**{: .label .label-ghost }
-            optional readings: [CIT 8.0](https://www.inferentialthinking.com/chapters/08/Functions_and_Tables.html), [SPR 9](https://cs.stanford.edu/people/nick/py/python-function.html)"
+            [code HTML](http://data6.org/su21/resources/assets/lecture/lec06/lec06.html)"
+          "**4**{: .label .label-ghost } optional readings: [CIT 8.0](https://www.inferentialthinking.com/chapters/08/Functions_and_Tables.html), [SPR 9](https://cs.stanford.edu/people/nick/py/python-function.html)":
           "**Lab 1**{: .label .label-lab} [Functions](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flab%2Flab01%2Flab01.ipynb&branch=master)":
       - date: 2021-07-13
         events:
@@ -29,22 +20,19 @@
             [QC](https://edstem.org/us/courses/6639/lessons/19324/slides/103725) •
             [lec1 practice problems](https://edstem.org/us/courses/6639/lessons/19577/slides/105598) •
             [lec2 code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec08%2Flec08.ipynb&branch=master) •
-            [lec2 code HTML](http://data6.org/su21/resources/assets/lecture/lec08/lec08.html)
-            **5**{: .label .label-ghost }
-            **5**{: .label .label-ghost }
-            **5**{: .label .label-ghost }
-            optional readings: [CIT 9.1](https://www.inferentialthinking.com/chapters/09/1/Conditional_Statements.html); [SPR 12](https://cs.stanford.edu/people/nick/py/python-if.html), [SPR 13](https://cs.stanford.edu/people/nick/py/python-boolean.html), [SPR 11](https://cs.stanford.edu/people/nick/py/python-while.html)"
+            [lec2 code HTML](http://data6.org/su21/resources/assets/lecture/lec08/lec08.html)"
+          "**5**{: .label .label-ghost } optional readings: [CIT 9.1](https://www.inferentialthinking.com/chapters/09/1/Conditional_Statements.html); [SPR 12](https://cs.stanford.edu/people/nick/py/python-if.html), [SPR 13](https://cs.stanford.edu/people/nick/py/python-boolean.html), [SPR 11](https://cs.stanford.edu/people/nick/py/python-while.html)":
       - date: 2021-07-14
         events:
           "**6**{: .label .label-gray } Iteration I (For Loops)":
-            "**6**{: .label .label-ghost } optional readings: [SPR 19](https://cs.stanford.edu/people/nick/py/python-list.html)" #[slides](#TODO) •
-            #[code](#TODO) •
+            "**6**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1duPGS-iaPF7c_QQfi6vpo_3f-X5x5V7FdaNB90-uCkE) •
+            [QC](https://edstem.org/us/courses/6639/lessons/19321/slides/103716) •
+            [code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec09%2Flec09.ipynb&branch=master)"
+          "**6**{: .label .label-ghost } optional readings: [SPR 19](https://cs.stanford.edu/people/nick/py/python-list.html)":
             #[code HTML](#TODO) •
-            #[QC](#TODO) •
-            #readings: [SPR 19](https://cs.stanford.edu/people/nick/py/python-list.html)"
-          "**Lab 2**{: .label .label-lab} Python Fundamentals": #TODO
-          "**Homework 2**{: .label .label-hw } Python Fundamentals **(due July 19th)**": #TODO
-          "**Survey 2**{: .label .label-survey } Weekly Survey **(due July 19th)**": #TODO
+          "**Lab 2**{: .label .label-lab} [Python Fundamentals](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flab%2Flab02%2Flab02.ipynb&branch=master)":
+          "**Homework 2**{: .label .label-hw } [Python Fundamentals](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Fhw%2Fhw02%2Fhw02.ipynb&branch=master) **(due July 19th)**":
+          "**Survey 2**{: .label .label-survey } [Weekly Survey](https://docs.google.com/forms/d/e/1FAIpQLSc-PhhIEXhBQksLw5obXNRlHD6jrurYv-h5P1bDYMS2ifpZmw/viewform) **(due July 19th)**":
       - date: 2021-07-15
         events:
           "**7**{: .label .label-gray } Iteration II (For Loops & Algorithms); Iteration III (While Loops)":
