@@ -27,9 +27,9 @@
           "**6**{: .label .label-gray } Iteration I (For Loops)":
             "**6**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1duPGS-iaPF7c_QQfi6vpo_3f-X5x5V7FdaNB90-uCkE) •
             [QC](https://edstem.org/us/courses/6639/lessons/19321/slides/103716) •
-            [code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec09%2Flec09.ipynb&branch=master)"
+            [code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec09%2Flec09.ipynb&branch=master) •
+            [code HTML](http://data6.org/su21/resources/assets/lecture/lec09/lec09.html)"
           "**6**{: .label .label-ghost } optional readings: [SPR 19](https://cs.stanford.edu/people/nick/py/python-list.html)":
-            #[code HTML](#TODO) •
           "**Lab 2**{: .label .label-lab} [Python Fundamentals](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flab%2Flab02%2Flab02.ipynb&branch=master)":
           "**Homework 2**{: .label .label-hw } [Python Fundamentals](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Fhw%2Fhw02%2Fhw02.ipynb&branch=master) **(due July 19th)**":
           "**Survey 2**{: .label .label-survey } [Weekly Survey](https://docs.google.com/forms/d/e/1FAIpQLSc-PhhIEXhBQksLw5obXNRlHD6jrurYv-h5P1bDYMS2ifpZmw/viewform) **(due July 19th)**":
