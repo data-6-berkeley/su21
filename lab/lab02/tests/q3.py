@@ -1,0 +1,10 @@
+test = {   'name': 'q3',
+    'points': 0,
+    'suites': [   {   'cases': [   {'code': '>>> acronym("The University of California, Berkeley") == "UCB"\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> acronym("") == ""\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> acronym("Data Science at Berkeley") == "DSB"\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> acronym("The United States of America") == "USA"\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
