@@ -36,13 +36,14 @@
       - date: 2021-07-15
         events:
           "**7**{: .label .label-gray } Iteration II (For Loops & Algorithms); Iteration III (While Loops)":
-            "**7**{: .label .label-ghost } optional readings: [SPR 10](https://cs.stanford.edu/people/nick/py/python-for.html), [14](https://cs.stanford.edu/people/nick/py/python-range.html); [TCS 8.2](https://runestone.academy/runestone/books/published/thinkcspy/MoreAboutIteration/Theforlooprevisited.html), [10.18](https://runestone.academy/runestone/books/published/thinkcspy/Lists/TheAccumulatorPatternwithLists.html), [Luhn's](https://gizmodo.com/how-credit-card-numbers-work-1493331190), [TCS 10.24](https://runestone.academy/runestone/books/published/thinkcspy/Lists/NestedLists.html)"
-            #[iteration2 slides](#TODO) •
-            #[iteration3 slides](#TODO) •
-            #[code](#TODO) •
-            #[code HTML](#TODO) •
-            #[QC](#TODO) •
-            #readings: [SPR 10](https://cs.stanford.edu/people/nick/py/python-for.html), [14](https://cs.stanford.edu/people/nick/py/python-range.html); [TCS 8.2](https://runestone.academy/runestone/books/published/thinkcspy/MoreAboutIteration/Theforlooprevisited.html), [10.18](https://runestone.academy/runestone/books/published/thinkcspy/Lists/TheAccumulatorPatternwithLists.html), [Luhn's](https://gizmodo.com/how-credit-card-numbers-work-1493331190), [TCS 10.24](https://runestone.academy/runestone/books/published/thinkcspy/Lists/NestedLists.html)"
+            "**7**{: .label .label-ghost }
+            [slides](https://docs.google.com/presentation/d/1r-L2J3LeEw-6b318EY4r2ZAENXjcohVgvkcrm2XgjGo) •
+            [QC](https://edstem.org/us/courses/6639/lessons/19325/slides/103727) •
+            [lec1 code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec10%2Flec10.ipynb&branch=master) •
+            [lec2 code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec11%2Flec11.ipynb&branch=master)" # •
+            #[lec1 code HTML](#TODO) •"
+            #[lec2 code HTML](#TODO)"
+          "**7**{: .label .label-ghost } optional readings: [SPR 10](https://cs.stanford.edu/people/nick/py/python-for.html), [14](https://cs.stanford.edu/people/nick/py/python-range.html); [TCS 8.2](https://runestone.academy/runestone/books/published/thinkcspy/MoreAboutIteration/Theforlooprevisited.html), [10.18](https://runestone.academy/runestone/books/published/thinkcspy/Lists/TheAccumulatorPatternwithLists.html), [Luhn's](https://gizmodo.com/how-credit-card-numbers-work-1493331190),[TCS 10.24](https://runestone.academy/runestone/books/published/thinkcspy/Lists/NestedLists.html)":
       - date: 2021-07-16
         events:
           "**Discussion 2**{: .label .label-disc } Human Contexts & Ethics": #TODO
