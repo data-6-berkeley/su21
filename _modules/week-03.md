@@ -5,12 +5,12 @@
       - date: 2021-07-19
         events:
           "**8**{: .label .label-gray } Quiz 1 Review":
-            "**8**{: .label .label-ghost }"
-            #[slides](#TODO) •
-            #[code](#TODO) •
-            #[code HTML](#TODO) •
-            #[QC](#TODO)"
-          "**Lab 3**{: .label .label-lab} For Loops": #TODO
+            "**8**{: .label .label-ghost }
+            [slides](https://docs.google.com/presentation/d/1pbcfAMC4dw_hFBJQ1-HJmW5bi5GG61ZITHksbc1cMG8) •
+            [QC](https://edstem.org/us/courses/6639/lessons/19633/slides/106324) •
+            [code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec12%2Flec12.ipynb&branch=master)" # •
+            #[code HTML](#TODO)"
+          "**Lab 3**{: .label .label-lab} [For Loops](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flab%2Flab03%2Flab03.ipynb&branch=master)":
       - date: 2021-07-20
         events:
           "**Quiz 1**{: .label .label-exam } Quiz 1 (in lecture)":
