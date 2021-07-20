@@ -16,12 +16,11 @@
           "**Quiz 1**{: .label .label-exam } Quiz 1 (in lecture)":
           "**9**{: .label .label-gray } File Formats + Dictionaries":
             "**9**{: .label .label-ghost }
-            optional readings: [CSV vs. JSON](https://medium.com/@martindrapeau/the-state-of-csv-and-json-d97d1486333), [Imports](https://www.digitalocean.com/community/tutorials/how-to-import-modules-in-python-3), [SPR 21](https://cs.stanford.edu/people/nick/py/python-dict.html), [TCS 12](https://runestone.academy/runestone/books/published/thinkcspy/Dictionaries/toctree.html)"
-            #[slides](#TODO) •
-            #[code](#TODO) •
-            #[code HTML](#TODO) •
-            #[QC](#TODO) •
-            #readings: [CSV vs. JSON](https://medium.com/@martindrapeau/the-state-of-csv-and-json-d97d1486333), [Imports](https://www.digitalocean.com/community/tutorials/how-to-import-modules-in-python-3), [SPR 21](https://cs.stanford.edu/people/nick/py/python-dict.html), [TCS 12](https://runestone.academy/runestone/books/published/thinkcspy/Dictionaries/toctree.html)"
+            [slides](https://docs.google.com/presentation/d/1yIJijx8I8Lshnpy7HsA4XqmYv_o016i0R8Uvknec378) •
+            [QC](https://edstem.org/us/courses/6639/lessons/19635/slides/106329) •
+            [code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec13%2Flec13.ipynb&branch=master)" # •
+            #[code HTML](#TODO)
+          "**9**{: .label .label-ghost } optional readings: [CSV vs. JSON](https://medium.com/@martindrapeau/the-state-of-csv-and-json-d97d1486333), [Imports](https://www.digitalocean.com/community/tutorials/how-to-import-modules-in-python-3), [SPR 21](https://cs.stanford.edu/people/nick/py/python-dict.html), [TCS 12](https://runestone.academy/runestone/books/published/thinkcspy/Dictionaries/toctree.html)":
       - date: 2021-07-21
         events:
           "**10**{: .label .label-gray } Dictionaries and NumPy":
