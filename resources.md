@@ -9,7 +9,7 @@ description: Resources to help you throughout the semester.
 
 There is no textbook for this course. Instead, we're designing the lectures so that they contain everything you'll need to know for the course. With that said, many students benefit from having textbook-style readings, so we've linked some in the course homepage and also include a few more resources below.
 
-## [Practice Problems By Topic](../resources/assets/other/practice_problems)
+<!-- ## [Practice Problems By Topic](../resources/assets/other/practice_problems) -->
 
 ## Documentation
 
