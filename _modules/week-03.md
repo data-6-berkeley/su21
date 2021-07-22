@@ -40,9 +40,9 @@
             [slides](https://docs.google.com/presentation/d/1StuCg8ehJeD3p4xUi4FQwlCG8sngO6WmQnVG6X9GTZc) •
             [QC](https://edstem.org/us/courses/6639/lessons/19638/slides/106338) •
             [lec1 code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec15%2Flec15.ipynb&branch=master) •
-            [lec2 code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec16%2Flec16.ipynb&branch=master)" #•
-            #[lec1 code HTML](#TODO)
-            #[lec2 code HTML](#TODO)"
+            [lec1 code HTML](http://data6.org/su21/resources/assets/lecture/lec15/lec15.html) •
+            [lec2 code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec16%2Flec16.ipynb&branch=master) •
+            [lec2 code HTML](http://data6.org/su21/resources/assets/lecture/lec16/lec16.html)"
           "**11**{: .label .label-ghost } optional readings: [CIT 6.0](https://www.inferentialthinking.com/chapters/06/Tables.html), [CIT 6.1-6.4](https://www.inferentialthinking.com/chapters/06/1/Sorting_Rows.html), [`are.` docs](http://data8.org/datascience/predicates.html?highlight=#datascience.predicates.are)":
       - date: 2021-07-23
         events:
