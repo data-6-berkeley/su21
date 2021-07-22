@@ -27,8 +27,8 @@
             "**10**{: .label .label-ghost }
             [slides](https://docs.google.com/presentation/d/1MpaVBUVFNXTuagucRF6VFdFQZMqtDGsO0dBlI7XFsy0/edit#slide=id.ge3cdea706a_0_0) •
             [QC](https://edstem.org/us/courses/6639/lessons/19637/edit/slides/106334) •
-            [code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec14%2Flec14.ipynb&branch=master)" # •
-            #[code HTML](#TODO)
+            [code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec14%2Flec14.ipynb&branch=master) •
+            [code HTML](http://data6.org/su21/resources/assets/lecture/lec14/lec14.html)"
           "**10**{: .label .label-ghost } optional readings: [SPR 21](https://cs.stanford.edu/people/nick/py/python-dict.html), [TCS 12](https://runestone.academy/runestone/books/published/thinkcspy/Dictionaries/toctree.html), [CIT 5](https://www.inferentialthinking.com/chapters/05/Sequences.html), [Data 8 Python ref](http://data8.org/fa20/python-reference.html)":
           "**Lab 4**{: .label .label-lab} [Dictionaries and NumPy](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flab%2Flab04%2Flab04.ipynb&branch=master)":
           "**Homework 3**{: .label .label-hw } [Dictionaries and NumPy](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Fhw%2Fhw03%2Fhw03.ipynb&branch=master) **(due July 26th)**":
@@ -36,13 +36,14 @@
       - date: 2021-07-22
         events:
           "**11**{: .label .label-gray } Table Fundamentals; Row Manipulation":
-            "**11**{: .label .label-ghost } optional readings: [CIT 6.0](https://www.inferentialthinking.com/chapters/06/Tables.html), [CIT 6.1-6.4](https://www.inferentialthinking.com/chapters/06/1/Sorting_Rows.html), [`are.` docs](http://data8.org/datascience/predicates.html?highlight=#datascience.predicates.are)"
-            #[table slides](#TODO) •
-            #[row slides](#TODO) •
-            #[code](#TODO) •
-            #[code HTML](#TODO) •
-            #[QC](#TODO) •
-            #readings: [CIT 6.0](https://www.inferentialthinking.com/chapters/06/Tables.html), [CIT 6.1-6.4](https://www.inferentialthinking.com/chapters/06/1/Sorting_Rows.html), [`are.` docs](http://data8.org/datascience/predicates.html?highlight=#datascience.predicates.are)"
+            "**11**{: .label .label-ghost }
+            [slides](https://docs.google.com/presentation/d/1StuCg8ehJeD3p4xUi4FQwlCG8sngO6WmQnVG6X9GTZc) •
+            [QC](https://edstem.org/us/courses/6639/lessons/19638/slides/106338) •
+            [lec1 code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec15%2Flec15.ipynb&branch=master) •
+            [lec2 code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec16%2Flec16.ipynb&branch=master)" #•
+            #[lec1 code HTML](#TODO)
+            #[lec2 code HTML](#TODO)"
+          "**11**{: .label .label-ghost } optional readings: [CIT 6.0](https://www.inferentialthinking.com/chapters/06/Tables.html), [CIT 6.1-6.4](https://www.inferentialthinking.com/chapters/06/1/Sorting_Rows.html), [`are.` docs](http://data8.org/datascience/predicates.html?highlight=#datascience.predicates.are)":
       - date: 2021-07-23
         events:
           "**Discussion 3**{: .label .label-disc } Algorithmic Bias": #TODO
