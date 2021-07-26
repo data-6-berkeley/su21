@@ -6,44 +6,47 @@
         events:
           "**12**{: .label .label-gray } Applying":
             "**12**{: .label .label-ghost }
-            optional readings: [CIT 8.1](https://www.inferentialthinking.com/chapters/08/1/Applying_a_Function_to_a_Column.html)" #[slides](#TODO) •
-            #[code](#TODO) •
-            #[code HTML](#TODO) •
-            #[QC](#TODO) •
-            #readings: [CIT 8.1](https://www.inferentialthinking.com/chapters/08/1/Applying_a_Function_to_a_Column.html)"
-          "**Lab 5**{: .label .label-lab} Tables": #TODO
+            [slides](https://docs.google.com/presentation/d/1mDrw9Vy1UlFKFBA_mTjCv_ebp6y2dj8qKEtDspn9Lcs) •
+            [QC](https://edstem.org/us/courses/6639/lessons/19719/slides/106960) •
+            [code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec17%2Flec17.ipynb&branch=master)" #•
+            #[code HTML](http://data6.org/su21/resources/assets/lecture/lec17/lec17.html)
+          "**12**{: .label .label-ghost } optional readings: [CIT 8.1](https://www.inferentialthinking.com/chapters/08/1/Applying_a_Function_to_a_Column.html)":
+          "**Lab 5**{: .label .label-lab} [Tables](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flab%2Flab05%2Flab05.ipynb&branch=master)":
       - date: 2021-07-27
         events:
           "**13**{: .label .label-gray } Grouping; Pivoting":
             "**13**{: .label .label-ghost }
             optional readings: [CIT 8.2](https://www.inferentialthinking.com/chapters/08/2/Classifying_by_One_Variable.html), [8.3](https://www.inferentialthinking.com/chapters/08/3/Cross-Classifying_by_More_than_One_Variable.html); [Table Visualizer](http://data8.org/interactive_table_functions/)"
-            #[grouping slides](#TODO) •
-            #[pivoting slides](#TODO) •
-            #[code](#TODO) •
-            #[code HTML](#TODO) •
+            #[lec1 slides](#TODO) •
+            #[lec2 slides](#TODO) •
             #[QC](#TODO) •
-            #readings: [CIT 8.2](https://www.inferentialthinking.com/chapters/08/2/Classifying_by_One_Variable.html), [8.3](https://www.inferentialthinking.com/chapters/08/3/Cross-Classifying_by_More_than_One_Variable.html); [Table Visualizer](http://data8.org/interactive_table_functions/)"
+            #[lec1 code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec18%2Flec18.ipynb&branch=master) •
+            #[lec2 code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec19%2Flec19.ipynb&branch=master)" #•
+            #[lec1 code HTML](#TODO) •
+            #[lec2 code HTML](#TODO)"
       - date: 2021-07-28
         events:
           "**14**{: .label .label-gray } Joining and Row Methods":
             "**14**{: .label .label-ghost } optional readings: [CIT 8.4](https://www.inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html), [Join animation](https://www.youtube.com/watch?v=ZGPlcpACNC0)"
             #[slides](#TODO) •
-            #[code](#TODO) •
-            #[code HTML](#TODO) •
             #[QC](#TODO) •
-            #readings: [CIT 8.4](https://www.inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html), [Join animation](https://www.youtube.com/watch?v=ZGPlcpACNC0)"
-          "**Lab 6**{: .label .label-lab} More Table Methods": #TODO
+            #[code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec20%2Flec20.ipynb&branch=master)" #•
+            #[code HTML](#TODO)"
+          "**Lab 6**{: .label .label-lab} More Table Methods":
+          #[More Table Methods](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flab%2Flab06%2Flab06.ipynb&branch=master)":
           "**Homework 4**{: .label .label-hw } Table Methods **(due August 2nd)**": #TODO
           "**Survey 4**{: .label .label-survey } Weekly Survey **(due August 2nd)**": #TODO
       - date: 2021-07-29
         events:
           "**15**{: .label .label-gray } Case Study: University Rankings; Quiz 2 Review":
             "**15**{: .label .label-ghost }"
-            #[rankings slides](#TODO) •
-            #[review slides](#TODO) •
-            #[code](#TODO) •
-            #[code HTML](#TODO) •
-            #[QC](#TODO)"
+            #[lec1 slides](#TODO) •
+            #[lec2 slides](#TODO) •
+            #[QC](#TODO) •
+            #[lec1 code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec21%2Flec21.ipynb&branch=master) •
+            #[lec2 code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec22%2Flec22.ipynb&branch=master)" #•
+            #[lec1 code HTML](#TODO) •
+            #[lec2 code HTML](#TODO)"
       - date: 2021-07-30
         events:
           "**Discussion 4**{: .label .label-disc } Data in Elections (Cambridge Analytica)": #TODO
