@@ -8,7 +8,7 @@
             "**12**{: .label .label-ghost }
             [slides](https://docs.google.com/presentation/d/1mDrw9Vy1UlFKFBA_mTjCv_ebp6y2dj8qKEtDspn9Lcs) •
             [QC](https://edstem.org/us/courses/6639/lessons/19719/slides/106960) •
-            [code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec17%2Flec17.ipynb&branch=master)•
+            [code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec17%2Flec17.ipynb&branch=master) •
             [code HTML](http://data6.org/su21/resources/assets/lecture/lec17/lec17.html)"
           "**12**{: .label .label-ghost } optional readings: [CIT 8.1](https://www.inferentialthinking.com/chapters/08/1/Applying_a_Function_to_a_Column.html)":
           "**Lab 5**{: .label .label-lab} [Tables](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flab%2Flab05%2Flab05.ipynb&branch=master)":
