@@ -19,9 +19,9 @@
             [slides](https://docs.google.com/presentation/d/1zVAumtWv6fuHwQZn5pc5QfQ6GS60G4GqOWpXsRSlq4U) •
             [QC](https://edstem.org/us/courses/6639/lessons/19720/slides/106961) •
             [lec1 code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec18%2Flec18.ipynb&branch=master) •
-            [lec2 code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec19%2Flec19.ipynb&branch=master)" #•
-            #[lec1 code HTML](#TODO) •
-            #[lec2 code HTML](#TODO)"
+            [lec1 code HTML](http://data6.org/su21/resources/assets/lecture/lec18/lec18.html) •
+            [lec2 code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec19%2Flec19.ipynb&branch=master) •
+            [lec2 code HTML](http://data6.org/su21/resources/assets/lecture/lec19/lec19.html)"
           "**13**{: .label .label-ghost } optional readings: [CIT 8.2](https://www.inferentialthinking.com/chapters/08/2/Classifying_by_One_Variable.html), [8.3](https://www.inferentialthinking.com/chapters/08/3/Cross-Classifying_by_More_than_One_Variable.html); [Table Visualizer](http://data8.org/interactive_table_functions/)":
       - date: 2021-07-28
         events:
@@ -29,11 +29,12 @@
             "**14**{: .label .label-ghost } optional readings: [CIT 8.4](https://www.inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html), [Join animation](https://www.youtube.com/watch?v=ZGPlcpACNC0)"
             #[slides](#TODO) •
             #[QC](#TODO) •
-            #[code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec20%2Flec20.ipynb&branch=master)" #•
+            #[code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec20%2Flec20.ipynb&branch=master)
+            #[extra hw problems](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Fhw%2Fhw04-extra%2Fhw04-extra.ipynb&branch=master)" #•
             #[code HTML](#TODO)"
           "**Lab 6**{: .label .label-lab} More Table Methods":
           #[More Table Methods](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flab%2Flab06%2Flab06.ipynb&branch=master)":
-          "**Homework 4**{: .label .label-hw } Table Methods **(due August 2nd)**": #TODO
+          "**Homework 4**{: .label .label-hw } Table Methods **(due August 2nd)**": #https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Fhw%2Fhw04%2Fhw04.ipynb&branch=master
           "**Survey 4**{: .label .label-survey } Weekly Survey **(due August 2nd)**": #TODO
       - date: 2021-07-29
         events:

@@ -125,7 +125,7 @@ In lieu of a midterm, we will have two small quizzes, each worth 10% of your gra
 - Quiz 1: Tuesday, July 20
 - Quiz 2: Monday, August 2
 
-We will have a final exam during the campus-assigned slot: **Friday August 12th, 10AM-12PM.** Unlike the quizzes, the final exam will be cumulative.
+We will have a final exam during the campus-assigned slot: **Friday August 13th, 10AM-12PM.** Unlike the quizzes, the final exam will be cumulative.
 
 More relevant logistics for quizzes and exams will be announced on Ed.
 
