@@ -46,5 +46,5 @@
           "**11**{: .label .label-ghost } optional readings: [CIT 6.0](https://www.inferentialthinking.com/chapters/06/Tables.html), [CIT 6.1-6.4](https://www.inferentialthinking.com/chapters/06/1/Sorting_Rows.html), [`are.` docs](http://data8.org/datascience/predicates.html?highlight=#datascience.predicates.are)":
       - date: 2021-07-23
         events:
-          "**Discussion 3**{: .label .label-disc } Algorithmic Bias": #TODO
+          "**Discussion 3**{: .label .label-disc } Algorithmic Bias":
 ---

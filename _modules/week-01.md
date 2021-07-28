@@ -36,5 +36,5 @@
           "**Survey 1**{: .label .label-survey } [Weekly Survey](https://docs.google.com/forms/d/e/1FAIpQLSdUmMRn2LdT2NG9PAqi26pEjUXFWCrhzCrIH3tV51og-ocDbg/viewform) **(due July 12th)**":
       - date: 2021-07-09
         events:
-          "**Discussion 1**{: .label .label-disc } Data in Education": #TODO
+          "**Discussion 1**{: .label .label-disc } Data in Education":
 ---
