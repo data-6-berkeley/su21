@@ -39,10 +39,10 @@
         events:
           "**15**{: .label .label-gray } Case Study: University Rankings; Quiz 2 Review":
             "**15**{: .label .label-ghost }
-            [slides](https://docs.google.com/presentation/d/12LT0qtvXQYsSOp8vlL696OHhCZI1DSzNXUN0ehTUbmE) •
+            [case study slides](https://docs.google.com/presentation/d/12LT0qtvXQYsSOp8vlL696OHhCZI1DSzNXUN0ehTUbmE) •
             [QC](https://edstem.org/us/courses/6639/lessons/19722/slides/106965) •
-            [code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec21%2Flec21.ipynb&branch=master)" #•
-            #[code HTML](http://data6.org/su21/resources/assets/lecture/lec21/lec21.html)"
+            [code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec21%2Flec21.ipynb&branch=master) •
+            [code HTML](http://data6.org/su21/resources/assets/lecture/lec21/lec21.html)"
       - date: 2021-07-30
         events:
           "**Discussion 4**{: .label .label-disc } Data in Elections (Cambridge Analytica)":
