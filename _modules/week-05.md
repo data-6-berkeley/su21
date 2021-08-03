@@ -19,9 +19,9 @@
             [slides](https://docs.google.com/presentation/d/1o7s7R9yy8tvNmMbwAWZg17tooQzIAfZtSTuHAY_rLIs) •
             [QC](https://edstem.org/us/courses/6639/lessons/20062/slides/110884) •
             [lec1 code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec24%2Flec24.ipynb&branch=master) •
-            [lec2 code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec25%2Flec25.ipynb&branch=master)" #•
-            #[lec1 code HTML](http://data6.org/su21/resources/assets/lecture/lec24/lec24.html) •
-            #[lec2 code HTML](http://data6.org/su21/resources/assets/lecture/lec25/lec25.html) •
+            [lec1 code HTML](http://data6.org/su21/resources/assets/lecture/lec24/lec24.html) •
+            [lec2 code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec25%2Flec25.ipynb&branch=master) •
+            [lec2 code HTML](http://data6.org/su21/resources/assets/lecture/lec25/lec25.html)"
           "**17**{: .label .label-ghost } optional readings: [CIT 7.1](https://inferentialthinking.com/chapters/07/1/Visualizing_Categorical_Distributions.html), [CIT 7.2](https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html)* (see Slide 2)":
       - date: 2021-08-04
         events:
@@ -31,9 +31,9 @@
             #[QC](https://edstem.org/us/courses/6639/lessons/20064/slides/110888) •
             #[code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec26%2Flec26.ipynb&branch=master)" #•
             #[code HTML](http://data6.org/su21/resources/assets/lecture/lec26/lec26.html) •
-          "**Lab 7**{: .label .label-lab} Visualization Fundamentals": #[Visualization Fundamentals](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flab%2Flab07%2Flab07.ipynb&branch=master)":
-          "**Homework 5**{: .label .label-hw } Data Visualization **(due August 9th)**": #[Data Visualization](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Fhw%2Fhw05%2Fhw05.ipynb&branch=master) **(due August 9th)**":
-          "**Survey 5**{: .label .label-survey } Weekly Survey **(due August 9th)**": #TODO
+          "**Lab 7**{: .label .label-lab} Visualization Fundamentals": # (https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flab%2Flab07%2Flab07.ipynb&branch=master)
+          "**Homework 5**{: .label .label-hw } Data Visualization **(due August 10th)**": # (https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Fhw%2Fhw05%2Fhw05.ipynb&branch=master)
+          "**Survey 5**{: .label .label-survey } Weekly Survey **(due August 10th)**": # (https://docs.google.com/forms/d/e/1FAIpQLSdBdWnRA_o4yd580XZ7AlMY3UJCrUPEzV45Tgrpbnt7iTBmsg/viewform)
       - date: 2021-08-05
         events:
           "**19**{: .label .label-gray } Maps; Fun with Plotly":
