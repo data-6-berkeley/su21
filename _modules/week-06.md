@@ -8,7 +8,7 @@
             "**20**{: .label .label-ghost }
             [slides](https://docs.google.com/presentation/d/1ONIYchIuDWrkXKXP6on_MlUBjbFso2IQjGzbyp9g0yQ) •
             [QC](https://edstem.org/us/courses/6639/lessons/20931/slides/113795) •
-            [code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec29%2Flec29.ipynb&branch=master)
+            [code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec29%2Flec29.ipynb&branch=master) •
             [code HTML](http://data6.org/su21/resources/assets/lecture/lec29/lec29.html)"
           "**20**{: .label .label-ghost } optional readings: [Basic Principles](https://paldhous.github.io/ucb/2016/dataviz/week2.html)":
           "**Lab 8**{: .label .label-lab} [More Visualization](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flab%2Flab08%2Flab08.ipynb&branch=master)":
@@ -16,13 +16,13 @@
         events:
           "**21**{: .label .label-gray } Randomness + Simulations; Finding and Using Data":
             "**21**{: .label .label-ghost }
-            optional readings: [Randomness](https://www.random.org/randomness/); [CIT 9.3](https://inferentialthinking.com/chapters/09/3/Simulation.html), [10.1](https://inferentialthinking.com/chapters/10/1/Empirical_Distributions.html)"
-            #[slides](https://docs.google.com/presentation/d/196oOAto3YufLz0H64jHqU7IkV1QyiNWfDUj7IxFGIik) •
-            #[QC](https://edstem.org/us/courses/6639/lessons/20933/slides/113797) •
-            #[lec1 code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec30%2Flec30.ipynb&branch=master) •
-            #[lec2 code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec31%2Flec31.ipynb&branch=master) •
+            [slides](https://docs.google.com/presentation/d/196oOAto3YufLz0H64jHqU7IkV1QyiNWfDUj7IxFGIik) •
+            [QC](https://edstem.org/us/courses/6639/lessons/20933/slides/113797) •
+            [lec1 code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec30%2Flec30.ipynb&branch=master) •
+            [lec2 code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec31%2Flec31.ipynb&branch=master)" #•
             #[lec1 code HTML](http://data6.org/su21/resources/assets/lecture/lec30/lec30.html) •
             #[lec2 code HTML](http://data6.org/su21/resources/assets/lecture/lec31/lec31.html)"
+          "**21**{: .label .label-ghost } optional readings: [Randomness](https://www.random.org/randomness/); [CIT 9.3](https://inferentialthinking.com/chapters/09/3/Simulation.html), [10.1](https://inferentialthinking.com/chapters/10/1/Empirical_Distributions.html)":
       - date: 2021-08-11
         events:
           "**22**{: .label .label-gray } Conclusion + Next Steps":
