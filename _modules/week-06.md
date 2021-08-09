@@ -6,12 +6,11 @@
         events:
           "**20**{: .label .label-gray } Case Study: Perception":
             "**20**{: .label .label-ghost }
-            optional readings: [Basic Principles](https://paldhous.github.io/ucb/2016/dataviz/week2.html)"
-            #[slides](#TODO) •
-            #[code](#TODO) •
-            #[code HTML](#TODO) •
-            #[QC](#TODO) •
-            #readings: [Basic Principles](https://paldhous.github.io/ucb/2016/dataviz/week2.html)"
+            [slides](https://docs.google.com/presentation/d/1ONIYchIuDWrkXKXP6on_MlUBjbFso2IQjGzbyp9g0yQ) •
+            [QC](https://edstem.org/us/courses/6639/lessons/20931/slides/113795) •
+            [code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec29%2Flec29.ipynb&branch=master)"
+            #[code HTML](http://data6.org/su21/resources/assets/lecture/lec29/lec29.html)
+          "**20**{: .label .label-ghost } optional readings: [Basic Principles](https://paldhous.github.io/ucb/2016/dataviz/week2.html)":
           "**Lab 8**{: .label .label-lab} More Visualization": #TODO
       - date: 2021-08-10
         events:
