@@ -19,17 +19,17 @@
             [slides](https://docs.google.com/presentation/d/196oOAto3YufLz0H64jHqU7IkV1QyiNWfDUj7IxFGIik) •
             [QC](https://edstem.org/us/courses/6639/lessons/20933/slides/113797) •
             [lec1 code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec30%2Flec30.ipynb&branch=master) •
-            [lec2 code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec31%2Flec31.ipynb&branch=master)•
+            [lec2 code](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-6-berkeley%2Fsu21&urlpath=tree%2Fsu21%2Flecture%2Flec31%2Flec31.ipynb&branch=master) •
             [code HTML](http://data6.org/su21/resources/assets/lecture/lec30/lec30.html)"
           "**21**{: .label .label-ghost } optional readings: [Randomness](https://www.random.org/randomness/); [CIT 9.3](https://inferentialthinking.com/chapters/09/3/Simulation.html), [10.1](https://inferentialthinking.com/chapters/10/1/Empirical_Distributions.html)":
       - date: 2021-08-11
         events:
           "**22**{: .label .label-gray } Conclusion + Next Steps":
-            "**22**{: .label .label-ghost }"
-            #[slides](https://docs.google.com/presentation/d/1pUizWyePCcPo3pHT3T8WeYv7S_Ow8YjkBsTmD8BEu4c) •
-            #[QC](https://edstem.org/us/courses/6639/lessons/20934/slides/113798)"
+            "**22**{: .label .label-ghost }
+            [slides](https://docs.google.com/presentation/d/1pUizWyePCcPo3pHT3T8WeYv7S_Ow8YjkBsTmD8BEu4c) •
+            [QC](https://edstem.org/us/courses/6639/lessons/20934/slides/113798)"
           "**Lab**{: .label .label-lab} Next Steps (no notebook)":
-          "**Survey 6**{: .label .label-survey } Final Survey **(due August 14th)**": #TODO
+          "**Survey 6**{: .label .label-survey } [Final Survey](https://docs.google.com/forms/d/e/1FAIpQLSf57a-qxwMyMM-tL3A8k9U76wnnJdIVGllSAAwHFBazuw4RVw/viewform) **(due August 14th)**":
       - date: 2021-08-12
         events:
           "**23**{: .label .label-gray } Final Review":
