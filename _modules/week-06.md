@@ -25,11 +25,11 @@
       - date: 2021-08-11
         events:
           "**22**{: .label .label-gray } Conclusion + Next Steps":
-            "**22**{: .label .label-ghost }"
-            #[slides](https://docs.google.com/presentation/d/1pUizWyePCcPo3pHT3T8WeYv7S_Ow8YjkBsTmD8BEu4c) •
-            #[QC](https://edstem.org/us/courses/6639/lessons/20934/slides/113798)"
+            "**22**{: .label .label-ghost }
+            [slides](https://docs.google.com/presentation/d/1pUizWyePCcPo3pHT3T8WeYv7S_Ow8YjkBsTmD8BEu4c) •
+            [QC](https://edstem.org/us/courses/6639/lessons/20934/slides/113798)"
           "**Lab**{: .label .label-lab} Next Steps (no notebook)":
-          "**Survey 6**{: .label .label-survey } Final Survey **(due August 14th)**": #TODO
+          "**Survey 6**{: .label .label-survey } [Final Survey](https://docs.google.com/forms/d/e/1FAIpQLSf57a-qxwMyMM-tL3A8k9U76wnnJdIVGllSAAwHFBazuw4RVw/viewform) **(due August 14th)**":
       - date: 2021-08-12
         events:
           "**23**{: .label .label-gray } Final Review":
