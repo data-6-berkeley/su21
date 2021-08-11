@@ -33,8 +33,8 @@
       - date: 2021-08-12
         events:
           "**23**{: .label .label-gray } Final Review":
-            "**23**{: .label .label-ghost }"
-            #[slides](https://docs.google.com/presentation/d/1dHwl_n6purz8eNDwRm-TkIaMLhgdJCkfhwtuKo3qkqE)"
+            "**23**{: .label .label-ghost } [slides](https://docs.google.com/presentation/d/1dHwl_n6purz8eNDwRm-TkIaMLhgdJCkfhwtuKo3qkqE) •
+            [Final Exam Solutions](https://youtu.be/dQw4w9WgXcQ)"
       - date: 2021-08-13
         events:
           "**Final Exam**{: .label .label-exam } Final Exam (in lecture 10AM-12PM)":
