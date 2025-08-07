@@ -29,14 +29,14 @@ concurrency:
 jobs:
   # Build job
   build:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1 
         with:
-          # The Ruby version is determined by either a `.ruby-version` or a `.tool-versions` file in root of the repo.
+          ruby-version: '3.3.0'
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 1 # Increment this number if you need to re-download cached gems
       - name: Install dependencies
