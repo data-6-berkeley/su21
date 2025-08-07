@@ -304,6 +304,9 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll
+  jekyll-remote-theme
+  jekyll-seo-tag
 
 BUNDLED WITH
    2.7.1

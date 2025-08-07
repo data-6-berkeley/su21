@@ -22,6 +22,9 @@ url: 'http://data6.org' # the base hostname & protocol for your site, e.g. http:
 
 # Theme settings
 remote_theme: pmarsceill/just-the-docs@v0.2.5-release
+plugins:
+  - jekyll-remote-theme 
+  - jekyll-seo-tag
 color_scheme: light
 search_enabled: true
 permalink: pretty
