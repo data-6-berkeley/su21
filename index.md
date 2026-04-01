@@ -6,6 +6,9 @@ description: >-
     A week-to-week description of the content covered in the course.
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://data6.org/)
+
 # Introduction to Computational Thinking with Data 📊
 {: .mb-2 }
 UC Berkeley, Summer 2021

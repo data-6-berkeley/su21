@@ -5,6 +5,9 @@ nav_exclude: true
 description: Old homework and quiz problems organized by topic.
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://data6.org/)
+
 # Practice Problems by Topic
 
 This page lists old homework and quiz problems, organized by topic in the course. This list is not necessarily comprehensive, but nevertheless we hope you find it useful. Furthermore, this page **does not** enumerate examples in lecture or Quick Checks; you should definitely refer to these in your studying as well.

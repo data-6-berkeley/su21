@@ -5,6 +5,9 @@ nav_order: 3
 description: Resources to help you throughout the semester.
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://data6.org/)
+
 # Resources 💻
 
 There is no textbook for this course. Instead, we're designing the lectures so that they contain everything you'll need to know for the course. With that said, many students benefit from having textbook-style readings, so we've linked some in the course homepage and also include a few more resources below.

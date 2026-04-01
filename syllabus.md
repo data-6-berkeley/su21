@@ -5,6 +5,9 @@ nav_order: 2
 description: Course structure and policies.
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://data6.org/)
+
 # Syllabus 📖
 {:.no_toc}
 

@@ -5,6 +5,9 @@ nav_exclude: true
 description: Information about enrollment.
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://data6.org/)
+
 # Enrollment ✅
 
 _Last updated January 1, 2021_

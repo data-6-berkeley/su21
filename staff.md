@@ -5,6 +5,9 @@ nav_order: 3
 description: A listing of all the course staff members.
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://data6.org/)
+
 # Staff 🧑‍🏫
 
 See [this post](https://edstem.org/us/courses/3251/discussion/201908) on Ed for the most up-to-date office hours schedule and Zoom links.
